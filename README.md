@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
 ---
-
+Video explanation link : https://drive.google.com/file/d/1ldHOaON_otFeihmv4tW3UOrCXgS0qA1-/view?usp=sharing
 ## 📌 Project Overview
 
 This is an end-to-end data analytics project analyzing Blinkit's sales performance across 8 Indian cities and 8 product categories. The goal was to identify revenue drivers, delivery performance, return patterns, and customer payment behaviour using real-world data analytics tools.
