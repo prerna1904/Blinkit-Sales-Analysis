@@ -1,0 +1,504 @@
+Order_ID,Customer_ID,Customer_Name,City,Category,Product_Name,Quantity,Unit_Price,Discount_%,Discount_Amount,Sales,Profit,Payment_Method,Order_Date,Delivery_Time_Mins,Order_Status,Rating
+BLK1305,CUST208,Arjun Reddy,Kolkata,Dairy & Breakfast,Paneer 200g,2,131.63,10,26.33,236.93,23.48,UPI,11/16/2024,12,Delivered,3
+BLK1500,CUST253,Sunita Patel,Bangalore,Fruits & Vegetables,Spinach 250g,4,23.31,0,0,93.24,20.77,Cash on Delivery,04/15/2024,39,Returned,5
+BLK1442,CUST172,Kavya Nair,Delhi,Beverages,Energy Drink,4,85.07,15,51.04,289.24,77.39,UPI,10/01/2024,45,Delivered,3
+BLK1154,CUST169,Sanjay Yadav,Bangalore,Grocery,Atta 10kg,1,88.57,10,8.86,79.71,23.8,Unknown,02/05/2024,10,Delivered,5
+BLK1255,CUST366,Pooja Agarwal,Chennai,Personal Care,Deo Spray,3,291.76,5,43.76,831.52,227.73,Wallet,06/27/2024,24,Delivered,4
+BLK1132,CUST244,Kavya Nair,Delhi,Baby Care,Baby Powder 200g,1,298.95,5,14.95,284,50.09,Wallet,05/03/2024,45,Delivered,3
+BLK1205,CUST211,Priya Singh,Unknown,Snacks & Munchies,Lays Classic 26g,1,47.14,10,4.71,42.43,9.02,UPI,08/13/2024,21,Delivered,5
+BLK1110,CUST341,Meera Iyer,Chennai,Beverages,Green Tea 25bags,3,119.43,0,0,358.29,20.44,Credit Card,02/20/2024,17,Delivered,3
+BLK1326,CUST326,Vikram Rao,Chennai,Grocery,Sunflower Oil 1L,5,59.76,0,0,298.8,56.67,Wallet,09/14/2024,29,Delivered,4
+BLK1248,CUST125,Meera Iyer,Hyderabad,Grocery,Toor Dal 1kg,2,76.82,10,15.36,138.28,27.96,Cash on Delivery,12/21/2024,10,Cancelled,5
+BLK1466,CUST189,Pooja Agarwal,Bangalore,Fruits & Vegetables,Banana 6pcs,1,80.43,0,0,80.43,11.12,Credit Card,08/21/2024,18,Returned,4
+BLK1354,CUST273,Arjun Reddy,Mumbai,Grocery,Basmati Rice 5kg,4,128.78,15,77.27,437.85,87.16,UPI,07/09/2024,23,Delivered,4
+BLK1290,CUST182,Anjali Joshi,Bangalore,Snacks & Munchies,Chocolate Bar,2,15.21,15,4.56,25.86,4.62,Debit Card,07/12/2024,35,Delivered,4
+BLK1085,CUST273,Pooja Agarwal,Kolkata,Personal Care,Soap Bar 100g,4,176.39,0,0,705.56,175.17,Cash on Delivery,02/28/2024,35,Cancelled,4
+BLK1011,CUST165,Deepak Kumar,Bangalore,Dairy & Breakfast,Paneer 200g,3,134.23,0,0,402.69,25.97,Cash on Delivery,10/17/2024,13,Cancelled,3
+BLK1325,CUST332,Arjun Reddy,Hyderabad,Beverages,Coffee 200g,1,16.61,0,0,16.61,3.11,Cash on Delivery,10/13/2024,30,Delivered,4
+BLK1079,CUST303,Unknown,Delhi,Meat & Fish,Fish Fillet 300g,3,164.72,0,0,494.16,79.48,Credit Card,04/30/2024,14,Delivered,5
+BLK1031,CUST391,Rahul Mehta,Bangalore,Personal Care,Moisturizer 100ml,4,127.32,0,0,509.28,76.7,Cash on Delivery,05/31/2024,20,Cancelled,5
+BLK1185,CUST251,Vikram Rao,Unknown,Beverages,Green Tea 25bags,4,54.28,20,43.42,173.7,38.19,UPI,12/19/2024,30,Delivered,4
+BLK1196,CUST205,Sanjay Yadav,Hyderabad,Baby Care,Diapers Pack 20,2,410.25,0,0,820.5,207.32,UPI,10/28/2024,35,Delivered,4
+BLK1223,CUST336,Priya Singh,Mumbai,Beverages,Fruit Juice 1L,1,56.61,15,8.49,48.12,6,Credit Card,03/30/2024,33,Cancelled,4
+BLK1210,CUST300,Anjali Joshi,Pune,Dairy & Breakfast,Eggs 12pcs,5,89.75,0,0,448.75,53.57,UPI,06/07/2024,40,Delivered,4
+BLK1282,CUST358,Amit Verma,Ahmedabad,Beverages,Green Tea 25bags,2,101.58,15,30.47,172.69,23.22,Cash on Delivery,07/31/2024,45,Delivered,4
+BLK1209,CUST316,Meera Iyer,Kolkata,Baby Care,Diapers Pack 20,1,106.68,0,0,106.68,12.33,Cash on Delivery,01/21/2024,20,Returned,4
+BLK1125,CUST165,Arjun Reddy,Pune,Baby Care,Baby Shampoo 200ml,4,264.32,20,211.46,845.82,163.86,Wallet,03/05/2024,12,Cancelled,4
+BLK1251,CUST125,Arjun Reddy,Ahmedabad,Meat & Fish,Eggs 6pcs,5,501.23,10,250.62,2255.53,129.1,Debit Card,04/08/2024,11,Delivered,3
+BLK1077,CUST171,Ravi Sharma,Mumbai,Baby Care,Diapers Pack 20,5,347.82,0,0,1739.1,484.89,UPI,04/23/2024,37,Delivered,5
+BLK1383,CUST218,Deepak Kumar,Hyderabad,Snacks & Munchies,Kurkure 90g,2,17.47,0,0,34.94,8.41,UPI,11/09/2024,44,Returned,4
+BLK1343,CUST376,Amit Verma,Bangalore,Snacks & Munchies,Lays Classic 26g,3,12.46,20,7.48,29.9,8.34,Wallet,08/31/2024,42,Delivered,4
+BLK1324,CUST302,Vikram Rao,Pune,Beverages,Coffee 200g,1,32.8,0,0,32.8,3.6,Wallet,01/01/2024,13,Delivered,5
+BLK1245,CUST298,Rohan Das,Mumbai,Snacks & Munchies,Lays Classic 26g,4,39.64,0,0,158.56,47.46,Unknown,11/17/2024,24,Delivered,3
+BLK1332,CUST104,Ravi Sharma,Pune,Baby Care,Baby Shampoo 200ml,3,113.03,5,16.95,322.14,85.4,Credit Card,03/30/2024,15,Returned,4
+BLK1141,CUST276,Sanjay Yadav,Kolkata,Personal Care,Toothpaste 150g,4,226.23,0,0,904.92,153.79,Credit Card,10/13/2024,26,Delivered,5
+BLK1010,CUST265,Kavya Nair,Delhi,Snacks & Munchies,Popcorn 100g,3,73.88,20,44.33,177.31,37.19,UPI,11/07/2024,17,Delivered,4
+BLK1073,CUST258,Sanjay Yadav,Delhi,Baby Care,Baby Powder 200g,2,410.3,10,82.06,738.54,184.99,Cash on Delivery,04/22/2024,24,Delivered,3
+BLK1401,CUST389,Meera Iyer,Chennai,Grocery,Salt 1kg,2,53.08,15,15.92,90.24,14.9,Debit Card,10/01/2024,37,Cancelled,3
+BLK1488,CUST215,Rohan Das,Ahmedabad,Fruits & Vegetables,Potato 1kg,1,39.5,0,0,39.5,5.22,Cash on Delivery,02/29/2024,26,Cancelled,4
+BLK1226,CUST381,Kavya Nair,Kolkata,Meat & Fish,Eggs 6pcs,2,309.27,0,0,618.54,74.2,UPI,03/17/2024,23,Delivered,4
+BLK1074,CUST371,Rohan Das,Pune,Grocery,Sugar 1kg,2,92.03,0,0,184.06,51.06,Debit Card,06/16/2024,19,Delivered,4
+BLK1178,CUST322,Rahul Mehta,Bangalore,Beverages,Coffee 200g,4,69.72,0,0,278.88,23.62,Cash on Delivery,06/03/2024,39,Delivered,3
+BLK1404,CUST327,Rohan Das,Mumbai,Fruits & Vegetables,Apple 4pcs,3,85.5,0,0,256.5,46.5,UPI,03/30/2024,31,Delivered,4
+BLK1069,CUST225,Unknown,Bangalore,Dairy & Breakfast,Butter 100g,3,41.63,0,0,124.89,7.68,Cash on Delivery,01/29/2024,30,Delivered,5
+BLK1156,CUST179,Rahul Mehta,Pune,Grocery,Basmati Rice 5kg,4,196.34,15,117.8,667.56,153.39,Credit Card,08/05/2024,22,Delivered,4
+BLK1056,CUST184,Sanjay Yadav,Delhi,Personal Care,Deo Spray,2,197.45,5,19.75,375.15,29.52,Debit Card,04/25/2024,25,Delivered,3
+BLK1406,CUST366,Sanjay Yadav,Mumbai,Baby Care,Baby Lotion 100ml,5,385.47,0,0,1927.35,98.35,Debit Card,01/23/2024,29,Cancelled,3
+BLK1299,CUST383,Pooja Agarwal,Delhi,Grocery,Atta 10kg,2,56.57,0,0,113.14,26.78,Wallet,10/06/2024,17,Delivered,5
+BLK1078,CUST150,Pooja Agarwal,Kolkata,Personal Care,Soap Bar 100g,2,79.03,10,15.81,142.25,11.94,Cash on Delivery,08/20/2024,42,Cancelled,4
+BLK1469,CUST345,Arjun Reddy,Mumbai,Fruits & Vegetables,Potato 1kg,4,74.96,0,0,299.84,87.67,UPI,10/20/2024,44,Cancelled,5
+BLK1318,CUST292,Deepak Kumar,Delhi,Personal Care,Moisturizer 100ml,4,269.19,0,0,1076.76,104.72,Unknown,12/29/2024,44,Returned,3
+BLK1476,CUST351,Arjun Reddy,Bangalore,Baby Care,Baby Wipes 80pcs,1,110.74,0,0,110.74,12.81,Unknown,11/23/2024,15,Delivered,5
+BLK1091,CUST141,Rahul Mehta,Delhi,Snacks & Munchies,Biscuit Pack,3,31.81,20,19.09,76.34,21.78,Cash on Delivery,11/01/2024,11,Delivered,4
+BLK1239,CUST125,Vikram Rao,Mumbai,Fruits & Vegetables,Onion 1kg,4,97.82,15,58.69,332.59,62.7,Wallet,10/03/2024,26,Delivered,4
+BLK1486,CUST194,Kavya Nair,Pune,Beverages,Energy Drink,3,35.11,0,0,105.33,29.01,UPI,10/02/2024,14,Delivered,4
+BLK1064,CUST244,Meera Iyer,Delhi,Meat & Fish,Eggs 6pcs,5,564.84,15,423.63,2400.57,647.75,Debit Card,02/05/2024,34,Delivered,4
+BLK1458,CUST251,Vikram Rao,Delhi,Meat & Fish,Eggs 6pcs,3,505.44,15,227.45,1288.87,214.05,Debit Card,11/20/2024,12,Cancelled,5
+BLK1071,CUST228,Kavya Nair,Kolkata,Baby Care,Baby Powder 200g,4,366.74,0,0,1466.96,321.86,Debit Card,03/21/2024,36,Delivered,4
+BLK1003,CUST140,Rohan Das,Kolkata,Fruits & Vegetables,Tomato 500g,1,22.88,0,0,22.88,5.99,Debit Card,11/05/2024,10,Cancelled,3
+BLK1288,CUST124,Arjun Reddy,Chennai,Grocery,Sunflower Oil 1L,1,168.38,10,16.84,151.54,40.46,Cash on Delivery,10/14/2024,43,Cancelled,4
+BLK1342,CUST164,Amit Verma,Ahmedabad,Dairy & Breakfast,Paneer 200g,1,100.35,15,15.05,85.3,24.13,Wallet,07/18/2024,22,Delivered,4
+BLK1138,CUST314,Amit Verma,Pune,Meat & Fish,Eggs 6pcs,2,519.75,0,0,1039.5,200.77,Cash on Delivery,12/24/2024,20,Delivered,4
+BLK1250,CUST259,Meera Iyer,Mumbai,Dairy & Breakfast,Curd 400g,4,77.42,15,46.45,263.23,45.04,Wallet,09/21/2024,11,Returned,4
+BLK1195,CUST278,Pooja Agarwal,Chennai,Baby Care,Baby Shampoo 200ml,4,187.42,0,0,749.68,175.42,UPI,11/30/2024,27,Delivered,4
+BLK1173,CUST140,Rohan Das,Bangalore,Snacks & Munchies,Chocolate Bar,1,67.46,0,0,67.46,6.11,Debit Card,05/03/2024,42,Delivered,5
+BLK1083,CUST131,Kavya Nair,Delhi,Fruits & Vegetables,Spinach 250g,4,65.46,10,26.18,235.66,24.84,Cash on Delivery,11/10/2024,41,Delivered,4
+BLK1454,CUST342,Pooja Agarwal,Hyderabad,Beverages,Fruit Juice 1L,5,78.38,0,0,391.9,76.24,Cash on Delivery,10/10/2024,13,Cancelled,4
+BLK1319,CUST303,Sanjay Yadav,Chennai,Fruits & Vegetables,Apple 4pcs,2,45.79,5,4.58,87,18.52,Credit Card,05/09/2024,42,Cancelled,5
+BLK1034,CUST154,Sanjay Yadav,Delhi,Dairy & Breakfast,Butter 100g,5,73.88,0,0,369.4,84.81,Cash on Delivery,07/15/2024,33,Delivered,4
+BLK1427,CUST220,Kavya Nair,Chennai,Personal Care,Toothpaste 150g,1,53.55,10,5.36,48.19,4.51,Credit Card,10/29/2024,36,Delivered,4
+BLK1228,CUST371,Sunita Patel,Ahmedabad,Fruits & Vegetables,Spinach 250g,4,57.7,0,0,230.8,21.92,Wallet,06/12/2024,9,Delivered,3
+BLK1001,CUST147,Neha Gupta,Delhi,Dairy & Breakfast,Amul Milk 1L,2,116.4,0,0,232.8,19.76,Credit Card,02/22/2024,45,Cancelled,3
+BLK1012,CUST364,Kavya Nair,Ahmedabad,Snacks & Munchies,Biscuit Pack,5,46.94,5,11.73,222.97,64.9,UPI,10/03/2024,27,Cancelled,5
+BLK1238,CUST180,Ravi Sharma,Kolkata,Meat & Fish,Eggs 6pcs,5,479.39,0,0,2396.95,322.36,UPI,11/10/2024,9,Cancelled,4
+BLK1023,CUST126,Priya Singh,Chennai,Dairy & Breakfast,Eggs 12pcs,3,91.92,0,0,275.76,55.48,Cash on Delivery,06/24/2024,24,Returned,4
+BLK1105,CUST272,Arjun Reddy,Delhi,Beverages,Fruit Juice 1L,4,114.51,0,0,458.04,48.84,Wallet,03/11/2024,12,Delivered,3
+BLK1297,CUST160,Rohan Das,Kolkata,Dairy & Breakfast,Cheese Slice,3,126.81,5,19.02,361.41,53.13,UPI,11/18/2024,35,Delivered,3
+BLK1102,CUST385,Deepak Kumar,Mumbai,Snacks & Munchies,Biscuit Pack,3,36.1,5,5.42,102.88,15.66,Cash on Delivery,06/22/2024,29,Delivered,5
+BLK1080,CUST135,Pooja Agarwal,Hyderabad,Dairy & Breakfast,Butter 100g,2,31.92,15,9.58,54.26,11.39,Wallet,01/11/2024,29,Delivered,4
+BLK1430,CUST372,Deepak Kumar,Mumbai,Snacks & Munchies,Popcorn 100g,1,70.92,0,0,70.92,19.99,Debit Card,08/17/2024,28,Returned,3
+BLK1432,CUST212,Meera Iyer,Pune,Snacks & Munchies,Biscuit Pack,1,48.33,20,9.67,38.66,2.59,Debit Card,07/29/2024,41,Delivered,4
+BLK1019,CUST306,Priya Singh,Hyderabad,Baby Care,Baby Shampoo 200ml,5,467.75,0,0,2338.75,150.19,Wallet,09/17/2024,19,Delivered,3
+BLK1177,CUST298,Sanjay Yadav,Kolkata,Meat & Fish,Chicken Breast 500g,3,161.82,10,48.55,436.91,32.01,UPI,11/02/2024,32,Delivered,4
+BLK1232,CUST272,Unknown,Mumbai,Snacks & Munchies,Popcorn 100g,2,59.33,20,23.73,94.93,7.38,Debit Card,09/26/2024,12,Delivered,5
+BLK1039,CUST114,Vikram Rao,Ahmedabad,Meat & Fish,Prawns 250g,5,486.38,20,486.38,1945.52,390.69,Debit Card,04/22/2024,22,Delivered,5
+BLK1133,CUST126,Anjali Joshi,Kolkata,Baby Care,Baby Powder 200g,1,314.68,5,15.73,298.95,24.96,Wallet,05/15/2024,33,Delivered,3
+BLK1040,CUST319,Amit Verma,Mumbai,Meat & Fish,Sausages 200g,4,224.27,0,0,897.08,264.8,Cash on Delivery,09/30/2024,33,Returned,3
+BLK1465,CUST233,Neha Gupta,Unknown,Fruits & Vegetables,Apple 4pcs,5,65.44,20,65.44,261.76,48.98,Cash on Delivery,08/22/2024,44,Delivered,4
+BLK1047,CUST364,Neha Gupta,Delhi,Meat & Fish,Fish Fillet 300g,3,162.91,0,0,488.73,84.01,UPI,06/30/2024,29,Delivered,4
+BLK1358,CUST368,Deepak Kumar,Hyderabad,Meat & Fish,Sausages 200g,1,233.49,10,23.35,210.14,55.52,Cash on Delivery,11/13/2024,28,Delivered,5
+BLK1278,CUST385,Rohan Das,Delhi,Baby Care,Diapers Pack 20,4,442.64,0,0,1770.56,141.07,UPI,09/11/2024,14,Cancelled,5
+BLK1363,CUST358,Sunita Patel,Kolkata,Meat & Fish,Sausages 200g,5,197.48,0,0,987.4,215.87,Credit Card,12/25/2024,14,Delivered,4
+BLK1094,CUST109,Kavya Nair,Kolkata,Meat & Fish,Eggs 6pcs,5,208.13,15,156.1,884.55,95.11,UPI,10/13/2024,12,Cancelled,3
+BLK1447,CUST145,Deepak Kumar,Ahmedabad,Snacks & Munchies,Kurkure 90g,3,20.02,10,6.01,54.05,8.79,Unknown,05/02/2024,10,Returned,4
+BLK1204,CUST170,Vikram Rao,Chennai,Dairy & Breakfast,Butter 100g,4,110.22,0,0,440.88,47.28,Credit Card,02/15/2024,14,Delivered,5
+BLK1451,CUST292,Arjun Reddy,Hyderabad,Fruits & Vegetables,Apple 4pcs,3,31.89,0,0,95.67,23.41,Credit Card,06/15/2024,14,Delivered,5
+BLK1149,CUST181,Vikram Rao,Chennai,Fruits & Vegetables,Banana 6pcs,5,64.51,0,0,322.55,37.22,Wallet,07/03/2024,11,Delivered,4
+BLK1221,CUST260,Vikram Rao,Ahmedabad,Beverages,Coca Cola 750ml,2,114.07,20,45.63,182.51,44.27,UPI,02/25/2024,14,Delivered,4
+BLK1070,CUST336,Deepak Kumar,Hyderabad,Snacks & Munchies,Kurkure 90g,5,22.25,20,22.25,89,12.96,Debit Card,12/15/2024,39,Returned,4
+BLK1254,CUST104,Neha Gupta,Bangalore,Beverages,Energy Drink,2,38.64,0,0,77.28,16.45,Debit Card,09/19/2024,8,Cancelled,4
+BLK1399,CUST257,Rahul Mehta,Mumbai,Meat & Fish,Mutton 500g,3,170.47,10,51.14,460.27,115.76,Wallet,04/18/2024,20,Delivered,4
+BLK1168,CUST106,Ravi Sharma,Kolkata,Dairy & Breakfast,Eggs 12pcs,2,39.63,10,7.93,71.33,11.7,Wallet,01/31/2024,39,Delivered,3
+BLK1276,CUST138,Sanjay Yadav,Bangalore,Meat & Fish,Eggs 6pcs,5,527.56,10,263.78,2374.02,151.09,Cash on Delivery,11/25/2024,40,Cancelled,4
+BLK1431,CUST199,Rohan Das,Hyderabad,Meat & Fish,Prawns 250g,3,563.12,0,0,1689.36,198.64,Debit Card,02/20/2024,45,Cancelled,4
+BLK1148,CUST220,Kavya Nair,Kolkata,Fruits & Vegetables,Tomato 500g,1,49.07,0,0,49.07,14.5,Debit Card,09/01/2024,23,Delivered,4
+BLK1321,CUST299,Deepak Kumar,Unknown,Beverages,Green Tea 25bags,2,97.23,0,0,194.46,20.15,UPI,07/24/2024,43,Returned,3
+BLK1330,CUST346,Sunita Patel,Delhi,Beverages,Mineral Water 1L,3,102.82,0,0,308.46,75.49,Wallet,03/02/2024,39,Returned,3
+BLK1174,CUST351,Neha Gupta,Ahmedabad,Grocery,Basmati Rice 5kg,1,104.31,0,0,104.31,21,Debit Card,11/10/2024,28,Delivered,4
+BLK1273,CUST313,Arjun Reddy,Mumbai,Baby Care,Baby Powder 200g,4,434.28,20,347.42,1389.7,216.01,Wallet,03/26/2024,16,Delivered,4
+BLK1496,CUST353,Anjali Joshi,Chennai,Baby Care,Formula Milk 400g,5,321.51,10,160.75,1446.8,242.27,Cash on Delivery,10/14/2024,40,Delivered,5
+BLK1183,CUST284,Meera Iyer,Delhi,Beverages,Fruit Juice 1L,4,84.16,20,67.33,269.31,38.85,Wallet,08/17/2024,45,Cancelled,5
+BLK1269,CUST380,Kavya Nair,Delhi,Baby Care,Baby Wipes 80pcs,3,343.6,20,206.16,824.64,149.08,Credit Card,04/13/2024,34,Delivered,4
+BLK1353,CUST302,Sanjay Yadav,Mumbai,Beverages,Fruit Juice 1L,2,108.19,0,0,216.38,23.58,Credit Card,08/10/2024,8,Delivered,4
+BLK1118,CUST251,Rahul Mehta,Pune,Personal Care,Shampoo 200ml,1,231.77,5,11.59,220.18,44.17,Cash on Delivery,04/02/2024,28,Delivered,3
+BLK1394,CUST245,Anjali Joshi,Bangalore,Grocery,Salt 1kg,5,128.28,0,0,641.4,85.16,Wallet,02/14/2024,14,Cancelled,4
+BLK1333,CUST287,Amit Verma,Pune,Meat & Fish,Prawns 250g,3,195.34,10,58.6,527.42,140.01,Cash on Delivery,04/05/2024,23,Delivered,4
+BLK1456,CUST308,Neha Gupta,Delhi,Grocery,Atta 10kg,4,120.29,20,96.23,384.93,96.04,Credit Card,02/20/2024,39,Delivered,3
+BLK1445,CUST397,Ravi Sharma,Hyderabad,Snacks & Munchies,Biscuit Pack,3,14.43,0,0,43.29,10.36,Credit Card,03/27/2024,43,Delivered,4
+BLK1357,CUST332,Ravi Sharma,Pune,Baby Care,Baby Powder 200g,5,447.06,20,447.06,1788.24,337.32,Wallet,02/05/2024,36,Delivered,4
+BLK1087,CUST126,Rahul Mehta,Kolkata,Dairy & Breakfast,Eggs 12pcs,2,116.04,10,23.21,208.87,13.58,Wallet,10/14/2024,15,Cancelled,5
+BLK1439,CUST197,Rahul Mehta,Kolkata,Dairy & Breakfast,Paneer 200g,3,89.5,0,0,268.5,69.89,Cash on Delivery,05/28/2024,19,Returned,3
+BLK1076,CUST155,Deepak Kumar,Pune,Fruits & Vegetables,Tomato 500g,1,82.21,0,0,82.21,15.14,Credit Card,08/20/2024,24,Returned,5
+BLK1452,CUST334,Meera Iyer,Bangalore,Dairy & Breakfast,Butter 100g,1,96.06,5,4.8,91.26,7.87,Credit Card,11/08/2024,19,Cancelled,5
+BLK1016,CUST376,Pooja Agarwal,Delhi,Beverages,Coffee 200g,4,62.1,0,0,248.4,29.72,UPI,05/07/2024,36,Returned,3
+BLK1211,CUST189,Priya Singh,Chennai,Personal Care,Deo Spray,2,159.37,0,0,318.74,35.42,UPI,08/10/2024,37,Returned,3
+BLK1181,CUST388,Neha Gupta,Mumbai,Fruits & Vegetables,Banana 6pcs,4,77.46,10,30.98,278.86,68.46,Wallet,06/15/2024,25,Cancelled,5
+BLK1398,CUST206,Sanjay Yadav,Mumbai,Baby Care,Baby Lotion 100ml,5,423.19,0,0,2115.95,480.63,Wallet,04/09/2024,15,Delivered,4
+BLK1020,CUST235,Vikram Rao,Unknown,Beverages,Coffee 200g,5,77.42,0,0,387.1,59.93,Credit Card,10/25/2024,24,Delivered,5
+BLK1434,CUST182,Sanjay Yadav,Chennai,Snacks & Munchies,Lays Classic 26g,3,58.7,0,0,176.1,29.36,UPI,02/08/2024,25,Cancelled,5
+BLK1341,CUST303,Rohan Das,Delhi,Personal Care,Deo Spray,1,225.17,0,0,225.17,20.65,UPI,02/22/2024,12,Cancelled,3
+BLK1057,CUST265,Anjali Joshi,Kolkata,Personal Care,Soap Bar 100g,3,81.09,15,36.49,206.78,31.15,Debit Card,05/19/2024,36,Delivered,3
+BLK1279,CUST332,Sunita Patel,Hyderabad,Dairy & Breakfast,Cheese Slice,3,145.21,10,43.56,392.07,74.72,Wallet,12/01/2024,29,Delivered,3
+BLK1468,CUST179,Ravi Sharma,Pune,Baby Care,Baby Shampoo 200ml,5,490.19,0,0,2450.95,196.99,Wallet,01/13/2024,39,Delivered,4
+BLK1025,CUST152,Sunita Patel,Hyderabad,Grocery,Sunflower Oil 1L,2,129.03,5,12.9,245.16,20.07,Wallet,06/06/2024,10,Delivered,4
+BLK1155,CUST370,Amit Verma,Kolkata,Fruits & Vegetables,Apple 4pcs,4,53.13,5,10.63,201.89,14.14,Credit Card,12/04/2024,30,Delivered,4
+BLK1026,CUST227,Rahul Mehta,Kolkata,Meat & Fish,Prawns 250g,2,487.26,20,194.9,779.62,70.65,Credit Card,03/31/2024,9,Delivered,5
+BLK1266,CUST230,Sanjay Yadav,Kolkata,Grocery,Toor Dal 1kg,2,68.13,0,0,136.26,31.82,Wallet,10/28/2024,15,Delivered,3
+BLK1043,CUST396,Ravi Sharma,Mumbai,Dairy & Breakfast,Cheese Slice,4,143.21,15,85.93,486.91,55.54,Debit Card,07/07/2024,15,Delivered,4
+BLK1313,CUST245,Priya Singh,Delhi,Snacks & Munchies,Kurkure 90g,1,54.07,10,5.41,48.66,4.22,Credit Card,03/26/2024,19,Returned,5
+BLK1413,CUST254,Rohan Das,Mumbai,Baby Care,Baby Wipes 80pcs,3,212.9,10,63.87,574.83,111.33,Cash on Delivery,09/17/2024,33,Delivered,5
+BLK1457,CUST337,Sanjay Yadav,Ahmedabad,Fruits & Vegetables,Banana 6pcs,1,35.32,0,0,35.32,6,Credit Card,06/05/2024,37,Returned,3
+BLK1285,CUST167,Meera Iyer,Pune,Personal Care,Deo Spray,3,186.95,15,84.13,476.72,111.65,Credit Card,10/10/2024,20,Delivered,4
+BLK1127,CUST272,Pooja Agarwal,Bangalore,Dairy & Breakfast,Paneer 200g,5,45.52,0,0,227.6,18.5,Wallet,06/04/2024,40,Delivered,4
+BLK1335,CUST168,Arjun Reddy,Ahmedabad,Beverages,Coffee 200g,4,60.38,0,0,241.52,20.88,Wallet,03/17/2024,8,Delivered,5
+BLK1032,CUST361,Kavya Nair,Hyderabad,Grocery,Sunflower Oil 1L,4,78.78,20,63.02,252.1,49.16,Credit Card,12/01/2024,37,Cancelled,4
+BLK1114,CUST280,Rohan Das,Delhi,Fruits & Vegetables,Banana 6pcs,3,78.52,20,47.11,188.45,12.61,Debit Card,05/03/2024,45,Delivered,4
+BLK1256,CUST272,Rahul Mehta,Mumbai,Meat & Fish,Prawns 250g,5,196.04,15,147.03,833.17,242.97,Debit Card,07/10/2024,27,Delivered,4
+BLK1219,CUST358,Amit Verma,Mumbai,Snacks & Munchies,Chocolate Bar,1,29.59,0,0,29.59,8.12,Cash on Delivery,09/23/2024,31,Cancelled,4
+BLK1417,CUST391,Sanjay Yadav,Chennai,Grocery,Toor Dal 1kg,4,142.35,10,56.94,512.46,62.97,Debit Card,11/11/2024,20,Delivered,5
+BLK1058,CUST365,Deepak Kumar,Ahmedabad,Grocery,Basmati Rice 5kg,5,68.92,10,34.46,310.14,89.23,Cash on Delivery,12/10/2024,44,Delivered,4
+BLK1397,CUST388,Kavya Nair,Bangalore,Dairy & Breakfast,Butter 100g,5,114.13,20,114.13,456.52,135.39,Wallet,05/27/2024,28,Delivered,5
+BLK1018,CUST260,Ravi Sharma,Delhi,Personal Care,Soap Bar 100g,5,224.15,15,168.11,952.64,218.73,UPI,03/20/2024,26,Delivered,3
+BLK1193,CUST249,Ravi Sharma,Hyderabad,Baby Care,Baby Lotion 100ml,4,373.88,15,224.33,1271.19,330.48,Debit Card,09/07/2024,13,Returned,3
+BLK1067,CUST303,Deepak Kumar,Pune,Dairy & Breakfast,Butter 100g,4,32.96,0,0,131.84,30.4,UPI,07/28/2024,12,Cancelled,4
+BLK1287,CUST204,Sanjay Yadav,Chennai,Meat & Fish,Eggs 6pcs,1,173.88,0,0,173.88,20.3,Wallet,03/23/2024,24,Delivered,3
+BLK1423,CUST364,Priya Singh,Ahmedabad,Grocery,Basmati Rice 5kg,3,126.59,0,0,379.77,74.08,Wallet,12/19/2024,20,Returned,4
+BLK1095,CUST335,Unknown,Bangalore,Fruits & Vegetables,Spinach 250g,4,51.49,15,30.89,175.07,36.77,Debit Card,05/28/2024,33,Delivered,5
+BLK1312,CUST224,Ravi Sharma,Delhi,Beverages,Green Tea 25bags,1,100.17,5,5.01,95.16,20.82,Credit Card,09/02/2024,45,Delivered,5
+BLK1369,CUST376,Anjali Joshi,Pune,Beverages,Energy Drink,5,83.54,0,0,417.7,87.08,Credit Card,11/19/2024,11,Delivered,3
+BLK1024,CUST138,Arjun Reddy,Mumbai,Personal Care,Shampoo 200ml,2,50.89,15,15.27,86.51,25.52,Credit Card,03/23/2024,43,Cancelled,3
+BLK1272,CUST158,Vikram Rao,Bangalore,Grocery,Toor Dal 1kg,2,142.77,0,0,285.54,39.8,Cash on Delivery,08/12/2024,13,Delivered,5
+BLK1300,CUST311,Arjun Reddy,Hyderabad,Snacks & Munchies,Lays Classic 26g,5,12.92,10,6.46,58.14,8.63,Wallet,10/07/2024,27,Delivered,5
+BLK1374,CUST247,Ravi Sharma,Bangalore,Baby Care,Diapers Pack 20,2,469.69,0,0,939.38,207.92,Debit Card,03/20/2024,15,Delivered,4
+BLK1006,CUST208,Deepak Kumar,Pune,Beverages,Energy Drink,1,49.05,0,0,49.05,12.53,Cash on Delivery,06/10/2024,25,Delivered,4
+BLK1117,CUST288,Arjun Reddy,Ahmedabad,Fruits & Vegetables,Banana 6pcs,3,25.58,5,3.84,72.9,19.86,Unknown,08/13/2024,29,Delivered,4
+BLK1046,CUST330,Neha Gupta,Chennai,Personal Care,Moisturizer 100ml,5,252.05,20,252.05,1008.2,172.28,Cash on Delivery,08/11/2024,28,Delivered,3
+BLK1186,CUST331,Sunita Patel,Ahmedabad,Dairy & Breakfast,Eggs 12pcs,3,38.42,0,0,115.26,18.88,UPI,04/15/2024,30,Cancelled,3
+BLK1017,CUST235,Arjun Reddy,Kolkata,Dairy & Breakfast,Curd 400g,4,41.62,5,8.32,158.16,16.36,Cash on Delivery,07/24/2024,18,Cancelled,3
+BLK1478,CUST284,Vikram Rao,Chennai,Grocery,Sunflower Oil 1L,1,57.68,0,0,57.68,7.49,Debit Card,12/20/2024,30,Delivered,3
+BLK1368,CUST313,Arjun Reddy,Kolkata,Dairy & Breakfast,Cheese Slice,1,103.49,15,15.52,87.97,22.18,UPI,07/14/2024,11,Delivered,5
+BLK1004,CUST332,Deepak Kumar,Chennai,Fruits & Vegetables,Spinach 250g,1,31.34,0,0,31.34,6.75,Debit Card,05/28/2024,22,Delivered,5
+BLK1235,CUST207,Neha Gupta,Chennai,Snacks & Munchies,Biscuit Pack,2,62.17,0,0,124.34,36.75,UPI,03/26/2024,29,Cancelled,3
+BLK1385,CUST350,Meera Iyer,Ahmedabad,Beverages,Mineral Water 1L,1,18.38,0,0,18.38,5.29,Debit Card,04/23/2024,21,Delivered,4
+BLK1061,CUST236,Rohan Das,Hyderabad,Grocery,Salt 1kg,4,177.79,5,35.56,675.6,42.94,Credit Card,09/22/2024,39,Cancelled,3
+BLK1111,CUST162,Ravi Sharma,Chennai,Baby Care,Baby Lotion 100ml,1,346.14,0,0,346.14,39.45,Credit Card,03/17/2024,15,Delivered,4
+BLK1410,CUST373,Priya Singh,Hyderabad,Meat & Fish,Eggs 6pcs,5,467.1,15,350.32,1985.18,514.25,Cash on Delivery,12/24/2024,30,Delivered,5
+BLK1421,CUST332,Rohan Das,Bangalore,Snacks & Munchies,Chocolate Bar,4,71.94,0,0,287.76,20.48,Cash on Delivery,11/24/2024,20,Returned,5
+BLK1030,CUST260,Deepak Kumar,Pune,Grocery,Sugar 1kg,5,187.35,15,140.51,796.24,183.02,UPI,12/09/2024,31,Cancelled,3
+BLK1275,CUST227,Kavya Nair,Kolkata,Dairy & Breakfast,Paneer 200g,1,105.15,15,15.77,89.38,23.87,Debit Card,09/25/2024,29,Returned,4
+BLK1303,CUST260,Neha Gupta,Delhi,Baby Care,Baby Powder 200g,3,346.54,15,155.94,883.68,173.24,Credit Card,10/16/2024,28,Cancelled,4
+BLK1027,CUST198,Vikram Rao,Delhi,Dairy & Breakfast,Butter 100g,4,133.38,0,0,533.52,53.3,Debit Card,08/23/2024,27,Delivered,4
+BLK1008,CUST370,Rahul Mehta,Ahmedabad,Baby Care,Diapers Pack 20,1,402.31,0,0,402.31,83.22,Wallet,12/14/2024,12,Cancelled,5
+BLK1182,CUST355,Amit Verma,Kolkata,Snacks & Munchies,Chocolate Bar,1,63.73,15,9.56,54.17,8.96,Debit Card,12/28/2024,36,Delivered,3
+BLK1109,CUST302,Rohan Das,Delhi,Personal Care,Soap Bar 100g,2,276.33,20,110.53,442.13,70.46,Debit Card,04/23/2024,30,Delivered,5
+BLK1038,CUST280,Rahul Mehta,Delhi,Baby Care,Baby Lotion 100ml,4,124.91,5,24.98,474.66,131.11,Cash on Delivery,10/26/2024,44,Cancelled,4
+BLK1158,CUST395,Anjali Joshi,Pune,Beverages,Energy Drink,4,19.64,0,0,78.56,14.53,Debit Card,01/29/2024,40,Delivered,4
+BLK1482,CUST213,Amit Verma,Mumbai,Baby Care,Baby Powder 200g,3,224.63,0,0,673.89,171.34,Credit Card,11/01/2024,19,Delivered,3
+BLK1119,CUST286,Rohan Das,Kolkata,Meat & Fish,Eggs 6pcs,3,460.39,5,69.06,1312.11,79.5,Credit Card,06/29/2024,25,Delivered,3
+BLK1115,CUST122,Sanjay Yadav,Hyderabad,Snacks & Munchies,Chocolate Bar,4,42.52,15,25.51,144.57,13.82,Credit Card,03/10/2024,37,Delivered,4
+BLK1267,CUST380,Rahul Mehta,Mumbai,Grocery,Sugar 1kg,1,199.1,15,29.86,169.24,43.84,Cash on Delivery,01/25/2024,34,Cancelled,5
+BLK1176,CUST195,Vikram Rao,Mumbai,Meat & Fish,Fish Fillet 300g,1,312.32,0,0,312.32,89.24,Cash on Delivery,08/15/2024,25,Delivered,4
+BLK1422,CUST379,Anjali Joshi,Kolkata,Baby Care,Baby Lotion 100ml,2,242.12,5,24.21,460.03,92.53,Debit Card,10/22/2024,23,Returned,4
+BLK1350,CUST136,Rohan Das,Kolkata,Personal Care,Soap Bar 100g,4,299.49,15,179.69,1018.27,252.38,Cash on Delivery,06/18/2024,17,Delivered,4
+BLK1145,CUST353,Amit Verma,Kolkata,Dairy & Breakfast,Eggs 12pcs,5,94.64,15,70.98,402.22,92.82,Debit Card,01/20/2024,34,Delivered,3
+BLK1381,CUST174,Deepak Kumar,Kolkata,Fruits & Vegetables,Apple 4pcs,2,61.09,15,18.33,103.85,8.79,Wallet,10/04/2024,16,Delivered,4
+BLK1392,CUST332,Vikram Rao,Ahmedabad,Beverages,Coca Cola 750ml,3,80.37,0,0,241.11,39.7,Cash on Delivery,09/12/2024,39,Delivered,4
+BLK1212,CUST115,Sunita Patel,Mumbai,Snacks & Munchies,Chocolate Bar,4,10.79,0,0,43.16,7.8,Cash on Delivery,05/12/2024,31,Delivered,4
+BLK1322,CUST305,Anjali Joshi,Kolkata,Dairy & Breakfast,Curd 400g,5,81.32,5,20.33,386.27,27.83,Wallet,05/14/2024,31,Delivered,3
+BLK1495,CUST299,Kavya Nair,Chennai,Baby Care,Baby Lotion 100ml,2,114.39,10,22.88,205.9,44.24,UPI,06/04/2024,39,Cancelled,4
+BLK1326,CUST326,Vikram Rao,Chennai,Grocery,Sunflower Oil 1L,5,59.76,0,0,85.86,56.67,Wallet,09/14/2024,29,Delivered,4
+BLK1142,CUST387,Meera Iyer,Chennai,Personal Care,Shampoo 200ml,1,121.91,0,0,121.91,34.26,Debit Card,12/01/2024,38,Delivered,4
+BLK1377,CUST348,Pooja Agarwal,Pune,Dairy & Breakfast,Butter 100g,3,105.85,20,63.51,254.04,19.55,Wallet,05/29/2024,22,Cancelled,3
+BLK1068,CUST146,Vikram Rao,Hyderabad,Fruits & Vegetables,Potato 1kg,4,88.04,0,0,352.16,72.79,UPI,09/06/2024,12,Delivered,4
+BLK1409,CUST127,Priya Singh,Kolkata,Snacks & Munchies,Lays Classic 26g,3,31.8,10,9.54,85.86,13.82,Cash on Delivery,03/07/2024,38,Delivered,3
+BLK1169,CUST223,Neha Gupta,Bangalore,Personal Care,Moisturizer 100ml,1,294.37,10,29.44,264.93,67.1,Wallet,12/11/2024,19,Delivered,3
+BLK1275,CUST227,Kavya Nair,Kolkata,Dairy & Breakfast,Paneer 200g,1,105.15,15,15.77,89.38,23.87,Debit Card,09/25/2024,29,Returned,3
+BLK1434,CUST182,Sanjay Yadav,Chennai,Snacks & Munchies,Lays Classic 26g,3,58.7,0,0,85.86,29.36,UPI,02/08/2024,25,Cancelled,5
+BLK1229,CUST190,Neha Gupta,Bangalore,Beverages,Mineral Water 1L,2,25.51,0,0,51.02,9.36,Wallet,01/29/2024,44,Cancelled,5
+BLK1194,CUST377,Pooja Agarwal,Pune,Beverages,Coffee 200g,4,45.31,10,18.12,163.12,38.44,UPI,09/10/2024,44,Delivered,4
+BLK1082,CUST132,Kavya Nair,Mumbai,Snacks & Munchies,Lays Classic 26g,2,35.08,10,7.02,63.14,8.27,Cash on Delivery,03/30/2024,11,Delivered,5
+BLK1429,CUST299,Kavya Nair,Kolkata,Fruits & Vegetables,Tomato 500g,1,69.59,0,0,69.59,6.4,Debit Card,07/23/2024,27,Cancelled,4
+BLK1146,CUST358,Kavya Nair,Bangalore,Grocery,Basmati Rice 5kg,5,80.73,0,0,403.65,113.88,Debit Card,06/20/2024,37,Returned,4
+BLK1093,CUST161,Ravi Sharma,Pune,Grocery,Toor Dal 1kg,5,97.19,0,0,485.95,25.23,Cash on Delivery,06/03/2024,16,Delivered,4
+BLK1153,CUST211,Anjali Joshi,Delhi,Baby Care,Baby Wipes 80pcs,4,305.3,10,122.12,1099.08,70.82,UPI,08/24/2024,9,Cancelled,4
+BLK1480,CUST348,Vikram Rao,Pune,Personal Care,Deo Spray,3,224.49,0,0,673.47,123.65,Debit Card,06/29/2024,8,Delivered,4
+BLK1249,CUST264,Rahul Mehta,Ahmedabad,Personal Care,Toothpaste 150g,3,55.06,0,0,165.18,19.84,Cash on Delivery,09/08/2024,22,Delivered,4
+BLK1084,CUST295,Anjali Joshi,Pune,Meat & Fish,Sausages 200g,4,198.58,0,0,794.32,218.29,Wallet,06/13/2024,12,Delivered,4
+BLK1104,CUST285,Rahul Mehta,Delhi,Meat & Fish,Sausages 200g,2,506.25,15,151.88,860.62,194.25,Credit Card,12/16/2024,35,Returned,5
+BLK1166,CUST171,Meera Iyer,Bangalore,Baby Care,Baby Shampoo 200ml,3,361.84,0,0,1085.52,261.44,Wallet,09/07/2024,37,Delivered,5
+BLK1164,CUST123,Anjali Joshi,Kolkata,Fruits & Vegetables,Banana 6pcs,5,37.23,5,9.31,176.84,29.44,Credit Card,08/28/2024,21,Delivered,5
+BLK1200,CUST380,Anjali Joshi,Pune,Fruits & Vegetables,Tomato 500g,4,82.63,0,0,330.52,96.52,Credit Card,04/18/2024,25,Delivered,4
+BLK1246,CUST390,Anjali Joshi,Bangalore,Fruits & Vegetables,Banana 6pcs,1,59.17,20,11.83,47.34,10.66,Wallet,10/27/2024,15,Cancelled,4
+BLK1075,CUST303,Pooja Agarwal,Hyderabad,Snacks & Munchies,Biscuit Pack,4,73.98,20,59.18,236.74,29.3,Wallet,06/22/2024,37,Delivered,4
+BLK1317,CUST219,Arjun Reddy,Ahmedabad,Meat & Fish,Eggs 6pcs,4,572.29,20,457.83,1831.33,443.49,UPI,06/28/2024,35,Delivered,4
+BLK1230,CUST189,Kavya Nair,Chennai,Fruits & Vegetables,Potato 1kg,5,74.3,0,0,371.5,83.91,UPI,06/29/2024,44,Delivered,4
+BLK1485,CUST396,Sanjay Yadav,Mumbai,Grocery,Basmati Rice 5kg,3,54.74,10,16.42,147.8,20.24,UPI,03/23/2024,40,Returned,3
+BLK1120,CUST330,Sunita Patel,Bangalore,Grocery,Toor Dal 1kg,4,174.27,0,0,697.08,56.85,Debit Card,04/30/2024,31,Cancelled,3
+BLK1387,CUST255,Sanjay Yadav,Kolkata,Beverages,Coffee 200g,1,71.48,10,7.15,64.33,9.45,Debit Card,11/18/2024,20,Delivered,4
+BLK1443,CUST154,Priya Singh,Mumbai,Baby Care,Baby Shampoo 200ml,2,118.32,0,0,236.64,22.02,Cash on Delivery,01/26/2024,14,Cancelled,4
+BLK1262,CUST350,Sanjay Yadav,Bangalore,Dairy & Breakfast,Butter 100g,2,63.24,0,0,126.48,26.39,UPI,01/03/2024,25,Delivered,4
+BLK1365,CUST103,Rahul Mehta,Chennai,Personal Care,Toothpaste 150g,4,290.41,5,58.08,1103.56,55.23,Credit Card,01/18/2024,9,Returned,4
+BLK1412,CUST157,Unknown,Unknown,Meat & Fish,Eggs 6pcs,3,464.83,20,278.9,1115.59,295.85,Cash on Delivery,06/15/2024,39,Delivered,3
+BLK1336,CUST343,Pooja Agarwal,Chennai,Fruits & Vegetables,Apple 4pcs,5,40.5,20,40.5,162,31.1,UPI,07/22/2024,18,Delivered,4
+BLK1263,CUST107,Arjun Reddy,Pune,Snacks & Munchies,Popcorn 100g,4,40.36,5,8.07,153.37,24.12,Debit Card,09/01/2024,20,Delivered,4
+BLK1481,CUST167,Arjun Reddy,Mumbai,Snacks & Munchies,Lays Classic 26g,5,25.25,0,0,126.25,32.56,UPI,10/13/2024,34,Cancelled,3
+BLK1419,CUST322,Rohan Das,Kolkata,Fruits & Vegetables,Tomato 500g,1,88.21,0,0,88.21,13.93,Credit Card,10/29/2024,28,Cancelled,5
+BLK1395,CUST381,Priya Singh,Kolkata,Snacks & Munchies,Namkeen 200g,3,62.45,0,0,187.35,13.73,Debit Card,06/02/2024,31,Cancelled,3
+BLK1281,CUST161,Arjun Reddy,Hyderabad,Dairy & Breakfast,Amul Milk 1L,4,136.59,0,0,546.36,139.57,Cash on Delivery,07/28/2024,24,Returned,4
+BLK1037,CUST312,Vikram Rao,Mumbai,Personal Care,Face Wash 100ml,3,117.93,10,35.38,318.41,22.33,Debit Card,03/18/2024,32,Delivered,4
+BLK1197,CUST169,Sanjay Yadav,Mumbai,Fruits & Vegetables,Spinach 250g,5,38.89,0,0,194.45,25.46,Unknown,12/26/2024,26,Returned,4
+BLK1140,CUST385,Rahul Mehta,Chennai,Snacks & Munchies,Namkeen 200g,3,73.85,10,22.16,199.39,27.63,Credit Card,12/14/2024,38,Delivered,4
+BLK1376,CUST338,Deepak Kumar,Delhi,Meat & Fish,Prawns 250g,5,557.72,0,0,2788.6,317.52,UPI,01/31/2024,20,Returned,4
+BLK1494,CUST330,Sunita Patel,Kolkata,Baby Care,Baby Shampoo 200ml,3,204.67,20,122.8,491.21,130.13,Cash on Delivery,10/06/2024,10,Cancelled,3
+BLK1292,CUST269,Sunita Patel,Hyderabad,Snacks & Munchies,Popcorn 100g,5,14.77,0,0,73.85,11.37,Debit Card,10/01/2024,13,Delivered,4
+BLK1060,CUST265,Priya Singh,Chennai,Fruits & Vegetables,Apple 4pcs,3,73.96,15,33.28,188.6,54,Cash on Delivery,10/08/2024,37,Delivered,5
+BLK1473,CUST400,Anjali Joshi,Bangalore,Dairy & Breakfast,Curd 400g,4,114.62,15,68.77,389.71,116.19,UPI,08/14/2024,18,Cancelled,5
+BLK1112,CUST249,Vikram Rao,Bangalore,Meat & Fish,Sausages 200g,4,507.25,0,0,2029,157.68,UPI,09/12/2024,40,Returned,4
+BLK1090,CUST314,Kavya Nair,Kolkata,Fruits & Vegetables,Tomato 500g,2,30.42,10,6.08,54.76,11.74,Debit Card,02/05/2024,9,Delivered,4
+BLK1418,CUST381,Ravi Sharma,Pune,Meat & Fish,Sausages 200g,3,592.16,0,0,1776.48,347.62,UPI,11/09/2024,16,Delivered,3
+BLK1007,CUST212,Amit Verma,Pune,Meat & Fish,Sausages 200g,3,356.48,0,0,1069.44,119.41,Wallet,10/14/2024,45,Cancelled,5
+BLK1372,CUST265,Deepak Kumar,Kolkata,Baby Care,Baby Shampoo 200ml,4,179.24,15,107.54,609.42,117.52,Wallet,10/14/2024,23,Delivered,4
+BLK1355,CUST198,Ravi Sharma,Ahmedabad,Grocery,Sunflower Oil 1L,5,139.58,20,139.58,558.32,42.91,Cash on Delivery,09/06/2024,28,Returned,5
+BLK1347,CUST196,Pooja Agarwal,Kolkata,Dairy & Breakfast,Butter 100g,5,101.29,20,101.29,405.16,101.29,UPI,11/09/2024,26,Returned,4
+BLK1159,CUST384,Kavya Nair,Kolkata,Beverages,Fruit Juice 1L,5,107.01,0,0,535.05,82.07,UPI,05/20/2024,43,Returned,4
+BLK1151,CUST388,Priya Singh,Mumbai,Baby Care,Baby Shampoo 200ml,2,420.8,20,168.32,673.28,75.32,UPI,11/01/2024,41,Cancelled,5
+BLK1393,CUST278,Ravi Sharma,Delhi,Dairy & Breakfast,Cheese Slice,2,98.01,10,19.6,176.42,21.09,Credit Card,11/17/2024,11,Delivered,4
+BLK1323,CUST199,Ravi Sharma,Chennai,Personal Care,Deo Spray,1,290.88,20,58.18,232.7,59.35,Wallet,11/23/2024,36,Delivered,4
+BLK1199,CUST147,Meera Iyer,Delhi,Meat & Fish,Mutton 500g,1,353.4,5,17.67,335.73,60.06,Cash on Delivery,05/22/2024,37,Cancelled,5
+BLK1450,CUST327,Anjali Joshi,Hyderabad,Baby Care,Diapers Pack 20,1,141.77,10,14.18,127.59,11.99,Wallet,01/15/2024,40,Delivered,3
+BLK1147,CUST307,Pooja Agarwal,Bangalore,Beverages,Coca Cola 750ml,4,49.72,15,29.83,169.05,19.33,Cash on Delivery,04/05/2024,29,Delivered,4
+BLK1405,CUST205,Meera Iyer,Bangalore,Baby Care,Baby Shampoo 200ml,3,161.63,5,24.24,460.65,107.38,UPI,09/25/2024,28,Delivered,3
+BLK1315,CUST343,Arjun Reddy,Bangalore,Dairy & Breakfast,Curd 400g,2,69.17,0,0,138.34,7.49,Wallet,09/24/2024,17,Returned,3
+BLK1490,CUST202,Anjali Joshi,Pune,Dairy & Breakfast,Amul Milk 1L,4,38.64,15,23.18,131.38,25.97,Cash on Delivery,02/22/2024,12,Delivered,4
+BLK1124,CUST133,Rahul Mehta,Mumbai,Beverages,Mineral Water 1L,4,39.86,0,0,159.44,22.36,Cash on Delivery,10/20/2024,37,Returned,4
+BLK1403,CUST354,Arjun Reddy,Mumbai,Snacks & Munchies,Popcorn 100g,2,52.4,10,10.48,94.32,7.47,Credit Card,06/06/2024,10,Delivered,5
+BLK1097,CUST231,Neha Gupta,Bangalore,Dairy & Breakfast,Cheese Slice,5,102.32,10,51.16,460.44,45.34,Credit Card,06/27/2024,17,Delivered,3
+BLK1144,CUST264,Rahul Mehta,Chennai,Dairy & Breakfast,Eggs 12pcs,1,120.2,10,12.02,108.18,31.86,UPI,03/21/2024,38,Cancelled,4
+BLK1240,CUST187,Deepak Kumar,Hyderabad,Baby Care,Baby Wipes 80pcs,1,121.8,5,6.09,115.71,8.32,Debit Card,12/04/2024,20,Delivered,3
+BLK1407,CUST239,Amit Verma,Mumbai,Grocery,Sugar 1kg,2,158.94,0,0,317.88,31.83,Credit Card,05/26/2024,42,Delivered,4
+BLK1098,CUST177,Unknown,Pune,Snacks & Munchies,Chocolate Bar,4,15.27,5,3.05,58.03,13.85,UPI,10/23/2024,44,Returned,5
+BLK1361,CUST136,Pooja Agarwal,Delhi,Baby Care,Diapers Pack 20,1,287.22,0,0,287.22,54.43,Debit Card,07/31/2024,11,Returned,4
+BLK1123,CUST360,Neha Gupta,Pune,Dairy & Breakfast,Eggs 12pcs,3,145.78,15,65.6,371.74,50.87,UPI,02/03/2024,27,Delivered,4
+BLK1184,CUST150,Rahul Mehta,Delhi,Dairy & Breakfast,Amul Milk 1L,3,119.96,0,0,359.88,76.2,Credit Card,01/23/2024,29,Cancelled,3
+BLK1203,CUST104,Meera Iyer,Delhi,Meat & Fish,Sausages 200g,1,191.04,0,0,191.04,19.74,Debit Card,02/09/2024,45,Delivered,4
+BLK1247,CUST392,Anjali Joshi,Ahmedabad,Dairy & Breakfast,Amul Milk 1L,1,93.15,20,18.63,74.52,9.06,Cash on Delivery,10/01/2024,34,Delivered,4
+BLK1483,CUST200,Priya Singh,Delhi,Beverages,Fruit Juice 1L,2,28.16,0,0,56.32,8.8,UPI,02/27/2024,9,Cancelled,5
+BLK1306,CUST337,Rohan Das,Bangalore,Personal Care,Moisturizer 100ml,5,273.5,5,68.38,1299.12,277.33,Wallet,03/17/2024,33,Delivered,4
+BLK1362,CUST385,Meera Iyer,Bangalore,Dairy & Breakfast,Curd 400g,1,144.88,0,0,144.88,33.51,Wallet,09/29/2024,20,Delivered,4
+BLK1308,CUST121,Deepak Kumar,Unknown,Snacks & Munchies,Chocolate Bar,3,61.24,0,0,183.72,19.24,Credit Card,09/06/2024,20,Delivered,5
+BLK1408,CUST245,Anjali Joshi,Bangalore,Personal Care,Shampoo 200ml,5,53.81,10,26.91,242.14,43.23,Credit Card,04/15/2024,43,Delivered,4
+BLK1291,CUST262,Rohan Das,Mumbai,Grocery,Sunflower Oil 1L,2,109.28,0,0,218.56,19.33,Credit Card,06/14/2024,27,Cancelled,5
+BLK1126,CUST277,Rohan Das,Hyderabad,Snacks & Munchies,Kurkure 90g,1,40.28,20,8.06,32.22,2.61,Debit Card,03/19/2024,18,Delivered,5
+BLK1311,CUST285,Anjali Joshi,Bangalore,Grocery,Sugar 1kg,4,179.95,0,0,719.8,77.38,UPI,09/20/2024,21,Delivered,4
+BLK1224,CUST111,Priya Singh,Mumbai,Dairy & Breakfast,Amul Milk 1L,2,28.02,0,0,56.04,5.58,Credit Card,07/24/2024,13,Returned,4
+BLK1441,CUST121,Vikram Rao,Pune,Dairy & Breakfast,Cheese Slice,4,103.64,10,41.46,373.1,108.66,UPI,08/18/2024,10,Delivered,3
+BLK1220,CUST262,Kavya Nair,Pune,Dairy & Breakfast,Cheese Slice,4,93.82,15,56.29,318.99,92.84,Debit Card,05/01/2024,24,Delivered,5
+BLK1130,CUST172,Priya Singh,Hyderabad,Meat & Fish,Eggs 6pcs,5,492.3,10,246.15,2215.35,169.58,UPI,05/03/2024,15,Delivered,4
+BLK1433,CUST292,Deepak Kumar,Bangalore,Personal Care,Face Wash 100ml,5,58.51,0,0,292.55,18.79,Unknown,10/31/2024,15,Delivered,3
+BLK1491,CUST348,Rohan Das,Kolkata,Dairy & Breakfast,Curd 400g,4,128.95,0,0,515.8,124.41,Debit Card,10/24/2024,33,Delivered,4
+BLK1337,CUST201,Anjali Joshi,Pune,Baby Care,Formula Milk 400g,3,233.86,0,0,701.58,133.36,Wallet,05/11/2024,9,Cancelled,3
+BLK1389,CUST183,Meera Iyer,Pune,Snacks & Munchies,Namkeen 200g,4,38.95,0,0,155.8,14.76,UPI,10/29/2024,37,Delivered,4
+BLK1298,CUST324,Vikram Rao,Chennai,Dairy & Breakfast,Eggs 12pcs,1,96.13,0,0,96.13,27.11,Cash on Delivery,02/24/2024,27,Returned,3
+BLK1366,CUST179,Amit Verma,Pune,Beverages,Fruit Juice 1L,3,17.28,10,5.18,46.66,8.3,Debit Card,10/19/2024,14,Delivered,4
+BLK1302,CUST199,Sunita Patel,Mumbai,Personal Care,Shampoo 200ml,5,99.35,5,24.84,471.91,135.86,Cash on Delivery,07/01/2024,23,Delivered,4
+BLK1295,CUST153,Neha Gupta,Kolkata,Fruits & Vegetables,Spinach 250g,1,22,0,0,22,6.44,Wallet,10/02/2024,12,Delivered,4
+BLK1378,CUST350,Vikram Rao,Pune,Dairy & Breakfast,Curd 400g,4,45.85,10,18.34,165.06,46.48,Credit Card,01/12/2024,23,Returned,4
+BLK1349,CUST211,Sunita Patel,Ahmedabad,Snacks & Munchies,Lays Classic 26g,2,29.75,15,8.93,50.57,8.07,Cash on Delivery,01/05/2024,13,Delivered,3
+BLK1113,CUST340,Ravi Sharma,Kolkata,Fruits & Vegetables,Onion 1kg,2,63.51,15,19.05,107.97,23.44,Cash on Delivery,09/25/2024,12,Returned,3
+BLK1180,CUST260,Amit Verma,Ahmedabad,Fruits & Vegetables,Spinach 250g,3,47.29,5,7.09,134.78,18.02,Cash on Delivery,11/29/2024,27,Delivered,4
+BLK1453,CUST314,Amit Verma,Ahmedabad,Fruits & Vegetables,Banana 6pcs,2,32.19,0,0,64.38,14.36,Debit Card,01/31/2024,16,Delivered,4
+BLK1348,CUST125,Rohan Das,Bangalore,Snacks & Munchies,Kurkure 90g,4,30.27,10,12.11,108.97,17.78,UPI,12/24/2024,20,Delivered,3
+BLK1339,CUST262,Deepak Kumar,Pune,Fruits & Vegetables,Apple 4pcs,5,68.66,5,17.16,326.14,85.52,Debit Card,02/06/2024,18,Delivered,4
+BLK1498,CUST186,Ravi Sharma,Pune,Fruits & Vegetables,Apple 4pcs,2,44.86,0,0,89.72,9.75,Unknown,06/08/2024,12,Delivered,3
+BLK1371,CUST166,Sanjay Yadav,Kolkata,Snacks & Munchies,Kurkure 90g,4,33.53,10,13.41,120.71,28.53,Credit Card,10/07/2024,24,Delivered,5
+BLK1234,CUST389,Priya Singh,Hyderabad,Personal Care,Face Wash 100ml,1,94.43,15,14.16,80.27,23.05,Cash on Delivery,07/19/2024,19,Returned,5
+BLK1461,CUST276,Kavya Nair,Pune,Beverages,Energy Drink,3,94.89,0,0,284.67,78.14,Cash on Delivery,09/14/2024,25,Delivered,3
+BLK1463,CUST313,Deepak Kumar,Chennai,Personal Care,Shampoo 200ml,3,77.34,0,0,232.02,52.04,Wallet,09/11/2024,21,Returned,3
+BLK1165,CUST391,Pooja Agarwal,Kolkata,Snacks & Munchies,Lays Classic 26g,5,28.25,10,14.12,127.13,29.24,Credit Card,05/31/2024,20,Delivered,4
+BLK1137,CUST398,Kavya Nair,Delhi,Fruits & Vegetables,Banana 6pcs,4,72.27,10,28.91,260.17,33.02,Credit Card,12/18/2024,38,Delivered,4
+BLK1198,CUST172,Anjali Joshi,Ahmedabad,Grocery,Sunflower Oil 1L,2,177.4,15,53.22,301.58,80.38,Debit Card,05/07/2024,28,Delivered,5
+BLK1259,CUST214,Meera Iyer,Pune,Snacks & Munchies,Biscuit Pack,2,16.83,15,5.05,28.61,3.28,Debit Card,10/13/2024,29,Delivered,4
+BLK1233,CUST189,Vikram Rao,Hyderabad,Snacks & Munchies,Kurkure 90g,4,61.26,20,49.01,196.03,41.13,Debit Card,09/06/2024,19,Returned,5
+BLK1116,CUST282,Pooja Agarwal,Chennai,Grocery,Sunflower Oil 1L,5,188.67,5,47.17,896.1825,266.42,UPI,10/05/2024,24,Delivered,4
+BLK1121,CUST355,Rohan Das,Bangalore,Baby Care,Diapers Pack 20,5,329.57,0,0,1647.85,246.37,Cash on Delivery,11/28/2024,23,Delivered,3
+BLK1370,CUST321,Rahul Mehta,Hyderabad,Fruits & Vegetables,Spinach 250g,2,74.31,0,0,148.62,32.46,Cash on Delivery,07/20/2024,44,Returned,3
+BLK1225,CUST354,Ravi Sharma,Kolkata,Baby Care,Baby Wipes 80pcs,3,136.79,0,0,410.37,24.9,Cash on Delivery,08/24/2024,18,Returned,5
+BLK1415,CUST384,Priya Singh,Pune,Beverages,Mineral Water 1L,1,84.57,15,12.69,71.88,20.32,Cash on Delivery,10/20/2024,15,Returned,4
+BLK1356,CUST378,Unknown,Bangalore,Fruits & Vegetables,Potato 1kg,1,26.45,5,1.32,25.13,5.7,Debit Card,10/13/2024,42,Cancelled,4
+BLK1128,CUST347,Neha Gupta,Chennai,Grocery,Basmati Rice 5kg,5,43.81,0,0,219.05,46.61,Cash on Delivery,10/19/2024,9,Cancelled,4
+BLK1286,CUST367,Priya Singh,Delhi,Fruits & Vegetables,Potato 1kg,3,24.81,10,7.44,66.99,11.39,UPI,10/19/2024,42,Delivered,5
+BLK1424,CUST332,Rohan Das,Ahmedabad,Dairy & Breakfast,Curd 400g,1,81.42,15,12.21,69.21,14.42,Cash on Delivery,10/23/2024,11,Delivered,3
+BLK1108,CUST245,Priya Singh,Mumbai,Meat & Fish,Eggs 6pcs,5,517.6,0,0,2588,694.23,Credit Card,01/27/2024,31,Returned,3
+BLK1382,CUST255,Kavya Nair,Kolkata,Snacks & Munchies,Biscuit Pack,5,14.75,15,11.06,62.69,4.99,Debit Card,06/11/2024,9,Delivered,5
+BLK1334,CUST151,Meera Iyer,Hyderabad,Meat & Fish,Eggs 6pcs,3,338.59,0,0,1015.77,267.74,Debit Card,05/23/2024,19,Returned,4
+BLK1134,CUST291,Sanjay Yadav,Kolkata,Beverages,Fruit Juice 1L,1,73.09,5,3.65,69.44,12.23,Debit Card,10/08/2024,15,Delivered,3
+BLK1375,CUST172,Meera Iyer,Ahmedabad,Dairy & Breakfast,Paneer 200g,1,78.51,0,0,78.51,8.03,UPI,10/02/2024,21,Returned,4
+BLK1045,CUST322,Amit Verma,Bangalore,Fruits & Vegetables,Tomato 500g,3,58.01,0,0,174.03,45.66,Wallet,09/07/2024,35,Delivered,4
+BLK1477,CUST161,Sunita Patel,Ahmedabad,Grocery,Basmati Rice 5kg,4,160,0,0,640,127.82,Wallet,07/04/2024,44,Cancelled,4
+BLK1066,CUST357,Anjali Joshi,Bangalore,Meat & Fish,Chicken Breast 500g,4,293.18,15,175.91,996.81,277.47,Debit Card,07/14/2024,20,Cancelled,3
+BLK1284,CUST168,Amit Verma,Ahmedabad,Fruits & Vegetables,Spinach 250g,4,89.92,10,35.97,323.71,90.31,Cash on Delivery,05/07/2024,33,Delivered,4
+BLK1086,CUST143,Priya Singh,Mumbai,Meat & Fish,Mutton 500g,3,478.33,5,71.75,1363.24,174.67,Cash on Delivery,05/10/2024,17,Cancelled,3
+BLK1243,CUST253,Priya Singh,Ahmedabad,Meat & Fish,Prawns 250g,1,252.38,20,50.48,201.9,29.63,Cash on Delivery,09/24/2024,42,Cancelled,4
+BLK1187,CUST269,Rohan Das,Bangalore,Personal Care,Shampoo 200ml,1,252.55,0,0,252.55,66.24,Cash on Delivery,11/27/2024,18,Delivered,4
+BLK1396,CUST392,Meera Iyer,Mumbai,Baby Care,Baby Wipes 80pcs,3,148.81,0,0,446.43,81.14,Wallet,09/25/2024,21,Returned,3
+BLK1160,CUST223,Pooja Agarwal,Ahmedabad,Fruits & Vegetables,Potato 1kg,5,72.06,0,0,360.3,80.73,Credit Card,07/28/2024,27,Cancelled,4
+BLK1013,CUST134,Arjun Reddy,Hyderabad,Beverages,Mineral Water 1L,1,21.72,10,2.17,19.55,3.68,UPI,10/28/2024,8,Delivered,3
+BLK1036,CUST240,Kavya Nair,Hyderabad,Meat & Fish,Prawns 250g,2,350.66,15,105.2,596.12,158.19,UPI,08/18/2024,23,Delivered,4
+BLK1029,CUST122,Meera Iyer,Chennai,Dairy & Breakfast,Cheese Slice,3,76.49,5,11.47,218,43.94,Unknown,09/18/2024,32,Returned,4
+BLK1171,CUST389,Pooja Agarwal,Pune,Dairy & Breakfast,Butter 100g,5,69.3,5,17.32,329.18,21.08,UPI,01/05/2024,13,Cancelled,5
+BLK1143,CUST269,Meera Iyer,Kolkata,Snacks & Munchies,Lays Classic 26g,5,53.1,0,0,265.5,29.37,Cash on Delivery,12/08/2024,22,Delivered,3
+BLK1411,CUST232,Arjun Reddy,Bangalore,Snacks & Munchies,Lays Classic 26g,4,66.9,0,0,267.6,43.86,Debit Card,12/16/2024,38,Delivered,4
+BLK1437,CUST394,Ravi Sharma,Kolkata,Baby Care,Diapers Pack 20,2,458.6,15,137.58,779.62,163.79,Wallet,01/20/2024,25,Delivered,5
+BLK1222,CUST267,Amit Verma,Hyderabad,Fruits & Vegetables,Onion 1kg,4,53.41,0,0,213.64,56.21,UPI,02/16/2024,27,Returned,3
+BLK1096,CUST270,Sanjay Yadav,Hyderabad,Dairy & Breakfast,Butter 100g,2,129.78,5,12.98,246.58,48.63,Credit Card,09/25/2024,33,Delivered,5
+BLK1052,CUST395,Deepak Kumar,Mumbai,Baby Care,Baby Lotion 100ml,1,236.28,0,0,236.28,67.4,UPI,09/01/2024,12,Cancelled,4
+BLK1241,CUST289,Arjun Reddy,Bangalore,Dairy & Breakfast,Butter 100g,3,129.69,20,77.81,311.26,46.49,Cash on Delivery,09/07/2024,13,Returned,5
+BLK1384,CUST342,Amit Verma,Ahmedabad,Fruits & Vegetables,Tomato 500g,4,73.49,0,0,246.582,51.61,Credit Card,11/05/2024,31,Delivered,5
+BLK1352,CUST346,Deepak Kumar,Chennai,Dairy & Breakfast,Cheese Slice,2,106.58,5,10.66,202.5,29.82,Debit Card,06/08/2024,18,Delivered,3
+BLK1391,CUST160,Arjun Reddy,Bangalore,Snacks & Munchies,Kurkure 90g,2,70.82,20,28.33,113.31,25.84,Credit Card,08/02/2024,27,Cancelled,4
+BLK1179,CUST255,Ravi Sharma,Bangalore,Personal Care,Soap Bar 100g,3,245.67,0,0,737.01,210.83,Cash on Delivery,11/16/2024,20,Cancelled,3
+BLK1042,CUST222,Amit Verma,Bangalore,Grocery,Sunflower Oil 1L,1,68.12,20,13.62,54.5,15.77,Cash on Delivery,01/21/2024,23,Delivered,3
+BLK1449,CUST322,Rahul Mehta,Hyderabad,Beverages,Coca Cola 750ml,4,98.64,5,19.73,374.83,35.26,Debit Card,12/09/2024,11,Delivered,4
+BLK1400,CUST345,Arjun Reddy,Pune,Fruits & Vegetables,Tomato 500g,3,24.68,0,0,74.04,11.03,Cash on Delivery,10/18/2024,19,Delivered,5
+BLK1207,CUST353,Vikram Rao,Hyderabad,Personal Care,Deo Spray,3,56.71,0,0,170.13,30.53,UPI,09/17/2024,33,Delivered,3
+BLK1283,CUST298,Deepak Kumar,Mumbai,Grocery,Sugar 1kg,5,155.16,5,38.79,737.01,191.4,Wallet,09/04/2024,45,Delivered,4
+BLK1359,CUST203,Priya Singh,Delhi,Snacks & Munchies,Popcorn 100g,4,29.82,15,17.89,101.39,13.23,Cash on Delivery,02/19/2024,10,Delivered,4
+BLK1425,CUST396,Amit Verma,Unknown,Fruits & Vegetables,Apple 4pcs,3,45,0,0,135,12.4,Wallet,12/21/2024,44,Delivered,3
+BLK1005,CUST336,Vikram Rao,Bangalore,Snacks & Munchies,Biscuit Pack,3,34.87,15,15.69,88.92,25.27,Debit Card,11/27/2024,18,Returned,4
+BLK1257,CUST354,Rahul Mehta,Delhi,Personal Care,Toothpaste 150g,3,214.03,0,0,642.09,56.17,Debit Card,05/03/2024,33,Delivered,4
+BLK1462,CUST300,Arjun Reddy,Mumbai,Dairy & Breakfast,Butter 100g,5,112.28,0,0,561.4,91.51,Credit Card,07/07/2024,20,Cancelled,3
+BLK1101,CUST324,Kavya Nair,Hyderabad,Fruits & Vegetables,Spinach 250g,2,55.43,0,0,110.86,18.03,Wallet,06/24/2024,40,Delivered,3
+BLK1227,CUST345,Rohan Das,Pune,Dairy & Breakfast,Paneer 200g,4,69.79,0,0,279.16,58.81,Cash on Delivery,09/26/2024,42,Delivered,5
+BLK1440,CUST222,Kavya Nair,Delhi,Dairy & Breakfast,Eggs 12pcs,4,109.55,0,0,438.2,118.89,Cash on Delivery,08/12/2024,16,Delivered,4
+BLK1214,CUST176,Amit Verma,Kolkata,Dairy & Breakfast,Curd 400g,1,116.3,0,0,116.3,30.78,UPI,01/07/2024,10,Cancelled,5
+BLK1435,CUST301,Amit Verma,Hyderabad,Personal Care,Shampoo 200ml,3,145.7,0,0,437.1,50.07,Cash on Delivery,05/15/2024,36,Delivered,4
+BLK1172,CUST261,Ravi Sharma,Bangalore,Grocery,Toor Dal 1kg,5,65.94,5,16.48,313.22,36.89,Credit Card,02/08/2024,42,Returned,3
+BLK1099,CUST129,Sunita Patel,Delhi,Baby Care,Baby Lotion 100ml,3,352.55,10,105.77,951.88,60.96,Debit Card,09/16/2024,27,Cancelled,4
+BLK1293,CUST224,Ravi Sharma,Hyderabad,Personal Care,Face Wash 100ml,5,287.58,10,143.79,1294.11,218.33,Debit Card,10/14/2024,15,Delivered,4
+BLK1216,CUST288,Neha Gupta,Delhi,Grocery,Atta 10kg,4,41.72,20,33.38,133.5,16.1,Debit Card,06/08/2024,13,Returned,4
+BLK1062,CUST147,Neha Gupta,Kolkata,Personal Care,Soap Bar 100g,4,270.21,0,0,1080.84,61.84,UPI,11/18/2024,18,Delivered,4
+BLK1048,CUST213,Vikram Rao,Chennai,Beverages,Energy Drink,5,57.67,20,57.67,230.68,25.39,Credit Card,08/31/2024,36,Delivered,3
+BLK1033,CUST123,Neha Gupta,Delhi,Dairy & Breakfast,Paneer 200g,5,87.01,0,0,435.05,31.91,Cash on Delivery,04/30/2024,22,Delivered,4
+BLK1268,CUST244,Priya Singh,Mumbai,Snacks & Munchies,Kurkure 90g,1,58.66,0,0,58.66,9.11,UPI,02/21/2024,16,Cancelled,3
+BLK1328,CUST275,Priya Singh,Kolkata,Beverages,Fruit Juice 1L,3,58.3,10,17.49,157.41,28.95,Wallet,12/24/2024,23,Delivered,3
+BLK1201,CUST100,Vikram Rao,Ahmedabad,Baby Care,Baby Powder 200g,1,457.66,0,0,457.66,34.28,Credit Card,08/23/2024,15,Delivered,4
+BLK1484,CUST194,Deepak Kumar,Hyderabad,Grocery,Atta 10kg,3,50.22,0,0,150.66,10.03,Debit Card,12/07/2024,14,Delivered,4
+BLK1028,CUST397,Rahul Mehta,Bangalore,Personal Care,Shampoo 200ml,3,291.72,0,0,875.16,184.11,UPI,07/23/2024,9,Delivered,4
+BLK1426,CUST167,Anjali Joshi,Chennai,Grocery,Salt 1kg,5,198.36,0,0,991.8,120.71,Debit Card,02/12/2024,40,Delivered,4
+BLK1231,CUST265,Ravi Sharma,Bangalore,Dairy & Breakfast,Amul Milk 1L,2,50.24,0,0,100.48,18.25,UPI,01/01/2024,20,Delivered,5
+BLK1261,CUST261,Pooja Agarwal,Bangalore,Meat & Fish,Prawns 250g,1,284.26,20,56.85,227.41,59.94,Credit Card,03/11/2024,29,Cancelled,4
+BLK1379,CUST384,Rahul Mehta,Delhi,Grocery,Sunflower Oil 1L,3,146.33,15,65.85,373.14,46.86,Credit Card,09/13/2024,11,Delivered,5
+BLK1289,CUST199,Rahul Mehta,Hyderabad,Meat & Fish,Mutton 500g,3,580.52,10,174.16,1567.4,99.45,Cash on Delivery,05/08/2024,36,Delivered,5
+BLK1163,CUST244,Vikram Rao,Pune,Personal Care,Shampoo 200ml,2,102.95,15,30.89,175.01,13.88,Cash on Delivery,09/02/2024,21,Cancelled,4
+BLK1438,CUST255,Unknown,Pune,Baby Care,Baby Lotion 100ml,1,274.42,10,27.44,246.98,26.29,UPI,07/15/2024,15,Returned,5
+BLK1139,CUST369,Vikram Rao,Ahmedabad,Beverages,Green Tea 25bags,5,67.69,5,16.92,321.53,86.24,Debit Card,02/01/2024,41,Delivered,5
+BLK1063,CUST333,Rohan Das,Hyderabad,Baby Care,Diapers Pack 20,2,359.08,5,35.91,682.25,193.19,Credit Card,05/29/2024,34,Cancelled,4
+BLK1136,CUST343,Pooja Agarwal,Chennai,Snacks & Munchies,Biscuit Pack,3,75.2,0,0,225.6,33.44,UPI,11/11/2024,45,Delivered,4
+BLK1129,CUST263,Meera Iyer,Pune,Personal Care,Soap Bar 100g,1,68.24,0,0,68.24,10.91,Debit Card,09/04/2024,21,Delivered,4
+BLK1493,CUST203,Rahul Mehta,Ahmedabad,Snacks & Munchies,Namkeen 200g,3,52.32,0,0,156.96,19.73,Cash on Delivery,11/15/2024,12,Returned,4
+BLK1009,CUST332,Ravi Sharma,Bangalore,Grocery,Salt 1kg,5,152.52,20,152.52,610.08,71.2,Debit Card,11/24/2024,15,Delivered,5
+BLK1327,CUST295,Deepak Kumar,Mumbai,Baby Care,Baby Wipes 80pcs,4,402.99,15,241.79,1370.17,226.32,Credit Card,10/27/2024,20,Delivered,4
+BLK1479,CUST261,Pooja Agarwal,Pune,Grocery,Sunflower Oil 1L,1,79.58,10,7.96,71.62,7.05,Debit Card,11/17/2024,14,Returned,4
+BLK1065,CUST392,Vikram Rao,Hyderabad,Baby Care,Baby Wipes 80pcs,4,278.62,0,0,1114.48,148.35,Credit Card,10/05/2024,37,Delivered,4
+BLK1301,CUST248,Deepak Kumar,Mumbai,Snacks & Munchies,Kurkure 90g,5,22.88,20,22.88,91.52,10.36,UPI,02/28/2024,44,Delivered,4
+BLK1015,CUST155,Neha Gupta,Pune,Beverages,Coca Cola 750ml,4,25.18,0,0,100.72,15.7,Credit Card,08/27/2024,14,Delivered,5
+BLK1157,CUST328,Anjali Joshi,Delhi,Dairy & Breakfast,Amul Milk 1L,4,125.23,10,50.09,450.83,108.88,UPI,01/09/2024,21,Delivered,3
+BLK1041,CUST340,Ravi Sharma,Mumbai,Snacks & Munchies,Lays Classic 26g,3,28.21,0,0,84.63,13.85,Wallet,06/21/2024,25,Cancelled,4
+BLK1380,CUST259,Arjun Reddy,Kolkata,Snacks & Munchies,Biscuit Pack,2,72.8,0,0,145.6,33.85,Wallet,09/23/2024,34,Delivered,4
+BLK1474,CUST312,Amit Verma,Chennai,Snacks & Munchies,Kurkure 90g,5,31.23,0,0,156.15,10.39,Wallet,10/29/2024,13,Delivered,4
+BLK1416,CUST211,Pooja Agarwal,Mumbai,Snacks & Munchies,Biscuit Pack,1,76.91,10,7.69,69.22,5.34,Unknown,11/01/2024,28,Cancelled,3
+BLK1217,CUST309,Ravi Sharma,Delhi,Personal Care,Deo Spray,4,205.68,0,0,822.72,162.83,Credit Card,09/09/2024,42,Delivered,4
+BLK1280,CUST380,Unknown,Chennai,Baby Care,Formula Milk 400g,4,362.87,0,0,1451.48,107.93,Debit Card,12/03/2024,8,Delivered,5
+BLK1448,CUST206,Rahul Mehta,Ahmedabad,Fruits & Vegetables,Apple 4pcs,2,15.39,0,0,30.78,2.44,UPI,09/28/2024,31,Returned,4
+BLK1487,CUST366,Unknown,Mumbai,Snacks & Munchies,Biscuit Pack,4,78.69,0,0,314.76,56.2,Cash on Delivery,07/27/2024,28,Delivered,4
+BLK1338,CUST174,Pooja Agarwal,Ahmedabad,Snacks & Munchies,Biscuit Pack,5,34.86,5,8.71,165.59,40.35,Credit Card,08/16/2024,32,Returned,4
+BLK1237,CUST137,Sunita Patel,Mumbai,Baby Care,Baby Shampoo 200ml,2,360.39,0,0,720.78,117.36,Credit Card,01/18/2024,9,Delivered,4
+BLK1208,CUST287,Rohan Das,Kolkata,Beverages,Green Tea 25bags,1,82,10,8.2,73.8,20.09,Credit Card,01/07/2024,28,Delivered,5
+BLK1213,CUST180,Rahul Mehta,Pune,Personal Care,Moisturizer 100ml,5,65.97,15,49.48,280.37,19.42,UPI,08/21/2024,11,Cancelled,4
+BLK1296,CUST127,Amit Verma,Mumbai,Meat & Fish,Sausages 200g,1,517.54,15,77.63,439.91,97.44,Debit Card,01/13/2024,29,Delivered,3
+BLK1471,CUST262,Anjali Joshi,Ahmedabad,Beverages,Fruit Juice 1L,1,35.55,10,3.56,31.99,8.39,Wallet,12/12/2024,40,Cancelled,4
+BLK1252,CUST190,Pooja Agarwal,Ahmedabad,Beverages,Fruit Juice 1L,4,53.68,10,21.47,193.25,28.84,Unknown,03/04/2024,23,Delivered,4
+BLK1499,CUST293,Anjali Joshi,Pune,Fruits & Vegetables,Tomato 500g,4,54.18,10,21.67,195.05,34.85,Cash on Delivery,08/03/2024,9,Cancelled,3
+BLK1472,CUST279,Rahul Mehta,Pune,Grocery,Salt 1kg,2,91.38,15,27.41,155.35,40.93,Cash on Delivery,07/08/2024,31,Delivered,4
+BLK1304,CUST382,Priya Singh,Ahmedabad,Meat & Fish,Fish Fillet 300g,2,528.05,15,158.41,897.69,209.38,Credit Card,09/02/2024,36,Delivered,4
+BLK1351,CUST117,Neha Gupta,Hyderabad,Snacks & Munchies,Kurkure 90g,3,72.7,20,43.62,174.48,25.37,Cash on Delivery,01/07/2024,23,Cancelled,4
+BLK1270,CUST231,Deepak Kumar,Mumbai,Baby Care,Baby Powder 200g,1,193.8,15,29.07,164.73,11.9,Credit Card,02/26/2024,17,Delivered,3
+BLK1202,CUST256,Meera Iyer,Kolkata,Snacks & Munchies,Chocolate Bar,3,31.13,0,0,93.39,19.95,Credit Card,05/08/2024,31,Delivered,3
+BLK1162,CUST206,Pooja Agarwal,Ahmedabad,Baby Care,Baby Powder 200g,2,136.99,0,0,273.98,32.09,Debit Card,12/10/2024,12,Delivered,4
+BLK1044,CUST277,Rohan Das,Delhi,Meat & Fish,Mutton 500g,2,573.66,0,0,1147.32,227.2,Cash on Delivery,11/17/2024,14,Delivered,3
+BLK1218,CUST314,Kavya Nair,Hyderabad,Fruits & Vegetables,Potato 1kg,1,86.36,0,0,86.36,4.35,UPI,12/02/2024,27,Delivered,4
+BLK1402,CUST292,Deepak Kumar,Pune,Grocery,Toor Dal 1kg,3,128.16,20,76.9,307.58,85.83,Wallet,06/30/2024,17,Delivered,3
+BLK1191,CUST349,Deepak Kumar,Bangalore,Personal Care,Shampoo 200ml,2,95.76,10,19.15,172.37,25.36,Wallet,11/01/2024,44,Cancelled,5
+BLK1310,CUST276,Kavya Nair,Unknown,Snacks & Munchies,Namkeen 200g,3,55.76,10,16.73,150.55,32.12,Cash on Delivery,02/09/2024,32,Delivered,5
+BLK1260,CUST199,Rohan Das,Ahmedabad,Meat & Fish,Fish Fillet 300g,5,317.26,0,0,1586.3,263.23,UPI,03/01/2024,11,Returned,3
+BLK1106,CUST221,Kavya Nair,Pune,Snacks & Munchies,Popcorn 100g,2,36.37,0,0,72.74,18.76,Wallet,11/15/2024,36,Delivered,5
+BLK1054,CUST222,Amit Verma,Bangalore,Meat & Fish,Fish Fillet 300g,1,405.88,10,40.59,365.29,105.94,Wallet,02/20/2024,21,Delivered,3
+BLK1390,CUST187,Arjun Reddy,Delhi,Dairy & Breakfast,Amul Milk 1L,3,111.81,0,0,335.43,60.7,Debit Card,07/15/2024,32,Returned,5
+BLK1002,CUST242,Amit Verma,Pune,Grocery,Sugar 1kg,5,63.8,5,15.95,303.05,31.85,Credit Card,10/28/2024,8,Delivered,5
+BLK1455,CUST122,Ravi Sharma,Kolkata,Personal Care,Shampoo 200ml,2,232.5,0,0,465,61.3,Cash on Delivery,10/23/2024,45,Delivered,3
+BLK1050,CUST199,Rahul Mehta,Mumbai,Beverages,Fruit Juice 1L,5,27.55,20,27.55,110.2,24.52,Credit Card,04/08/2024,38,Delivered,4
+BLK1420,CUST105,Priya Singh,Bangalore,Snacks & Munchies,Namkeen 200g,5,19.73,5,4.93,93.72,24.45,UPI,07/03/2024,17,Delivered,4
+BLK1081,CUST189,Priya Singh,Chennai,Beverages,Coffee 200g,2,37.67,0,0,75.34,18.35,UPI,11/01/2024,25,Delivered,4
+BLK1206,CUST383,Anjali Joshi,Hyderabad,Snacks & Munchies,Lays Classic 26g,4,51.27,0,0,205.08,59.64,Wallet,06/10/2024,23,Delivered,4
+BLK1035,CUST326,Anjali Joshi,Pune,Beverages,Mineral Water 1L,5,99.43,5,24.86,472.29,29.54,Wallet,05/07/2024,37,Delivered,4
+BLK1264,CUST185,Priya Singh,Chennai,Beverages,Coca Cola 750ml,2,86.06,0,0,172.12,38.45,UPI,06/25/2024,16,Delivered,5
+BLK1428,CUST185,Neha Gupta,Ahmedabad,Grocery,Sunflower Oil 1L,2,197.29,10,39.46,355.12,100.67,Wallet,03/19/2024,34,Cancelled,4
+BLK1367,CUST347,Amit Verma,Pune,Fruits & Vegetables,Spinach 250g,3,36.24,20,21.74,86.98,10.88,Cash on Delivery,10/19/2024,44,Delivered,3
+BLK1092,CUST349,Rohan Das,Chennai,Meat & Fish,Mutton 500g,4,423.18,0,0,1692.72,175.86,Debit Card,09/19/2024,30,Cancelled,3
+BLK1340,CUST164,Meera Iyer,Delhi,Personal Care,Moisturizer 100ml,3,211.16,5,31.67,601.81,147.59,Credit Card,07/04/2024,34,Delivered,4
+BLK1489,CUST302,Kavya Nair,Mumbai,Personal Care,Soap Bar 100g,1,97.2,20,19.44,77.76,19.49,Wallet,12/13/2024,19,Delivered,4
+BLK1053,CUST326,Rahul Mehta,Ahmedabad,Snacks & Munchies,Kurkure 90g,3,66.78,0,0,200.34,59.8,Wallet,03/01/2024,22,Returned,5
+BLK1346,CUST293,Neha Gupta,Kolkata,Meat & Fish,Fish Fillet 300g,1,418.65,10,41.87,376.78,54.03,Debit Card,07/29/2024,33,Delivered,4
+BLK1265,CUST184,Arjun Reddy,Hyderabad,Personal Care,Toothpaste 150g,5,163.98,10,81.99,737.91,133.58,Cash on Delivery,08/10/2024,29,Cancelled,5
+BLK1242,CUST143,Deepak Kumar,Mumbai,Fruits & Vegetables,Onion 1kg,3,52.89,5,7.93,150.74,25.06,Debit Card,04/25/2024,20,Delivered,4
+BLK1014,CUST342,Sanjay Yadav,Hyderabad,Fruits & Vegetables,Tomato 500g,3,58.7,15,26.42,149.68,25.65,Cash on Delivery,10/03/2024,44,Returned,4
+BLK1316,CUST122,Meera Iyer,Pune,Grocery,Sugar 1kg,1,115.57,0,0,115.57,19.71,Wallet,03/07/2024,35,Returned,5
+BLK1089,CUST258,Arjun Reddy,Chennai,Meat & Fish,Prawns 250g,5,588.55,10,294.27,2648.48,579.34,Debit Card,10/12/2024,25,Delivered,4
+BLK1388,CUST399,Arjun Reddy,Bangalore,Baby Care,Baby Wipes 80pcs,5,268.98,0,0,1344.9,299.22,Wallet,03/13/2024,36,Delivered,3
+BLK1274,CUST310,Kavya Nair,Mumbai,Baby Care,Baby Shampoo 200ml,2,371.36,10,74.27,668.45,96.88,UPI,07/02/2024,20,Cancelled,4
+BLK1167,CUST170,Pooja Agarwal,Kolkata,Baby Care,Baby Wipes 80pcs,5,466.76,15,350.07,1983.73,573.91,Credit Card,09/25/2024,12,Delivered,3
+BLK1329,CUST235,Neha Gupta,Hyderabad,Snacks & Munchies,Namkeen 200g,2,31.97,10,6.39,57.55,6.75,Credit Card,12/15/2024,39,Delivered,4
+BLK1436,CUST136,Anjali Joshi,Mumbai,Dairy & Breakfast,Curd 400g,4,90.28,0,0,361.12,73.48,Debit Card,02/24/2024,24,Delivered,3
+BLK1135,CUST176,Anjali Joshi,Ahmedabad,Fruits & Vegetables,Onion 1kg,5,31.92,5,7.98,151.62,26.54,Wallet,01/24/2024,16,Delivered,4
+BLK1307,CUST191,Anjali Joshi,Bangalore,Dairy & Breakfast,Butter 100g,1,67.3,15,10.1,57.2,6.28,Wallet,11/10/2024,40,Delivered,4
+BLK1497,CUST149,Vikram Rao,Kolkata,Fruits & Vegetables,Banana 6pcs,1,42.24,10,4.22,38.02,2.33,Debit Card,07/06/2024,45,Delivered,5
+BLK1320,CUST170,Pooja Agarwal,Kolkata,Meat & Fish,Prawns 250g,4,502.7,0,0,2010.8,286.65,UPI,10/11/2024,24,Delivered,5
+BLK1244,CUST208,Sanjay Yadav,Bangalore,Grocery,Sugar 1kg,5,127.11,20,127.11,508.44,98.06,Credit Card,11/13/2024,15,Cancelled,4
+BLK1055,CUST136,Deepak Kumar,Ahmedabad,Dairy & Breakfast,Curd 400g,4,20.35,15,12.21,69.19,13.73,Credit Card,05/29/2024,22,Delivered,4
+BLK1364,CUST292,Sanjay Yadav,Hyderabad,Baby Care,Baby Powder 200g,5,460.99,0,0,2304.95,602.08,Wallet,07/30/2024,28,Returned,4
+BLK1051,CUST393,Rahul Mehta,Delhi,Fruits & Vegetables,Onion 1kg,5,40.69,0,0,203.45,24.12,Cash on Delivery,01/28/2024,16,Cancelled,3
+BLK1470,CUST199,Anjali Joshi,Delhi,Snacks & Munchies,Chocolate Bar,3,48.57,0,0,145.71,21.92,Wallet,04/22/2024,30,Delivered,5
+BLK1175,CUST178,Vikram Rao,Chennai,Meat & Fish,Mutton 500g,5,233.58,15,175.19,992.71,143.96,Credit Card,11/12/2024,23,Delivered,3
+BLK1446,CUST313,Meera Iyer,Chennai,Dairy & Breakfast,Eggs 12pcs,2,99.62,0,0,199.24,53.78,Cash on Delivery,02/11/2024,20,Delivered,3
+BLK1190,CUST260,Priya Singh,Bangalore,Fruits & Vegetables,Spinach 250g,4,48.03,10,19.21,172.91,13.58,Credit Card,06/29/2024,19,Delivered,3
+BLK1464,CUST310,Anjali Joshi,Pune,Snacks & Munchies,Namkeen 200g,4,34.27,15,20.56,116.52,24.61,Debit Card,05/29/2024,12,Delivered,4
+BLK1188,CUST319,Vikram Rao,Ahmedabad,Baby Care,Baby Wipes 80pcs,2,419.1,0,0,838.2,176.12,UPI,08/09/2024,9,Returned,4
+BLK1170,CUST141,Deepak Kumar,Chennai,Personal Care,Toothpaste 150g,4,116.83,0,0,467.32,66.95,UPI,07/26/2024,44,Delivered,4
+BLK1059,CUST153,Pooja Agarwal,Pune,Personal Care,Face Wash 100ml,4,299.24,15,179.54,1017.42,257.98,Credit Card,02/16/2024,30,Cancelled,5
+BLK1475,CUST399,Rahul Mehta,Chennai,Baby Care,Formula Milk 400g,2,327.17,0,0,654.34,63.14,Cash on Delivery,07/14/2024,43,Cancelled,3
+BLK1049,CUST228,Neha Gupta,Chennai,Personal Care,Deo Spray,4,195.39,10,78.16,703.4,128.53,UPI,08/05/2024,30,Cancelled,4
+BLK1345,CUST344,Unknown,Ahmedabad,Meat & Fish,Fish Fillet 300g,1,220.07,0,0,220.07,39.8,UPI,03/10/2024,26,Cancelled,3
+BLK1236,CUST379,Vikram Rao,Pune,Fruits & Vegetables,Banana 6pcs,1,81.9,0,0,81.9,12,UPI,08/02/2024,34,Cancelled,5
+BLK1253,CUST392,Sanjay Yadav,Bangalore,Fruits & Vegetables,Banana 6pcs,3,28.9,15,13,73.7,18.99,Credit Card,02/16/2024,9,Cancelled,3
+BLK1022,CUST168,Rahul Mehta,Mumbai,Dairy & Breakfast,Curd 400g,2,68.04,5,6.8,129.28,33.41,UPI,12/26/2024,41,Delivered,4
+BLK1314,CUST275,Arjun Reddy,Bangalore,Baby Care,Baby Shampoo 200ml,4,497.11,0,0,1988.44,208.47,Cash on Delivery,07/29/2024,45,Delivered,4
+BLK1460,CUST344,Meera Iyer,Mumbai,Fruits & Vegetables,Banana 6pcs,5,29.9,15,22.43,127.07,8.48,Wallet,12/29/2024,16,Delivered,4
+BLK1161,CUST269,Deepak Kumar,Hyderabad,Personal Care,Deo Spray,4,86.09,0,0,344.36,65.63,UPI,08/01/2024,32,Delivered,4
+BLK1277,CUST327,Sanjay Yadav,Ahmedabad,Fruits & Vegetables,Onion 1kg,3,43.13,0,0,129.39,22.87,Wallet,10/08/2024,33,Delivered,3
+BLK1444,CUST209,Sanjay Yadav,Unknown,Beverages,Coca Cola 750ml,4,99.47,0,0,397.88,100.62,UPI,12/13/2024,28,Delivered,4
+BLK1192,CUST199,Pooja Agarwal,Unknown,Snacks & Munchies,Popcorn 100g,3,21.68,0,0,65.04,6.29,Cash on Delivery,08/18/2024,30,Delivered,4
+BLK1386,CUST331,Kavya Nair,Mumbai,Baby Care,Baby Wipes 80pcs,1,271.02,10,27.1,243.92,57.04,UPI,07/13/2024,33,Returned,3
+BLK1294,CUST122,Rahul Mehta,Ahmedabad,Meat & Fish,Chicken Breast 500g,5,323.64,15,242.73,1375.47,166.03,Credit Card,09/21/2024,20,Returned,4
+BLK1414,CUST322,Anjali Joshi,Kolkata,Meat & Fish,Prawns 250g,5,336.05,0,0,1680.25,314.19,Debit Card,09/03/2024,12,Delivered,4
+BLK1492,CUST355,Deepak Kumar,Mumbai,Snacks & Munchies,Namkeen 200g,3,17.56,5,2.63,50.05,8.72,UPI,11/17/2024,9,Delivered,3
+BLK1344,CUST326,Rahul Mehta,Mumbai,Baby Care,Formula Milk 400g,5,399.56,5,99.89,1897.91,343.27,Debit Card,11/23/2024,30,Cancelled,4
+BLK1258,CUST359,Rahul Mehta,Unknown,Meat & Fish,Mutton 500g,1,324.72,10,32.47,292.25,66.35,Credit Card,10/19/2024,29,Delivered,4
+BLK1309,CUST396,Rohan Das,Chennai,Fruits & Vegetables,Apple 4pcs,4,54.92,0,0,219.68,13.18,Wallet,11/28/2024,14,Returned,4
+BLK1150,CUST312,Meera Iyer,Pune,Personal Care,Deo Spray,3,79.35,0,0,238.05,48.48,Wallet,04/22/2024,38,Delivered,4
+BLK1131,CUST355,Rohan Das,Bangalore,Personal Care,Soap Bar 100g,4,266.04,0,0,1064.16,309.32,Cash on Delivery,03/22/2024,44,Delivered,4
+BLK1152,CUST361,Kavya Nair,Mumbai,Beverages,Coffee 200g,2,71.35,0,0,142.7,37.62,UPI,08/14/2024,21,Returned,4
+BLK1360,CUST106,Arjun Reddy,Mumbai,Beverages,Coca Cola 750ml,4,18.34,15,11,62.36,10.76,Credit Card,11/15/2024,11,Delivered,4
+BLK1100,CUST392,Deepak Kumar,Ahmedabad,Dairy & Breakfast,Eggs 12pcs,1,132.35,10,13.23,119.12,23.65,Credit Card,07/15/2024,45,Returned,3
+BLK1373,CUST326,Anjali Joshi,Pune,Dairy & Breakfast,Amul Milk 1L,4,107.33,0,0,429.32,58.85,Credit Card,06/13/2024,9,Delivered,4
+BLK1088,CUST242,Anjali Joshi,Mumbai,Personal Care,Toothpaste 150g,5,75.9,0,0,379.5,33.66,Credit Card,09/03/2024,14,Delivered,5
+BLK1459,CUST338,Anjali Joshi,Pune,Beverages,Energy Drink,3,23.5,15,10.57,59.93,16.96,UPI,09/20/2024,11,Delivered,5
+BLK1331,CUST369,Sanjay Yadav,Delhi,Fruits & Vegetables,Apple 4pcs,5,91.34,20,91.34,365.36,43.36,Cash on Delivery,04/03/2024,33,Delivered,4
+BLK1215,CUST214,Unknown,Bangalore,Meat & Fish,Eggs 6pcs,4,294.81,15,176.89,1002.35,130.29,Wallet,02/09/2024,15,Returned,3
+BLK1467,CUST276,Amit Verma,Pune,Snacks & Munchies,Kurkure 90g,3,18.18,10,5.45,49.09,4.01,Debit Card,05/13/2024,19,Delivered,3
+BLK1122,CUST331,Amit Verma,Mumbai,Dairy & Breakfast,Paneer 200g,4,120.75,0,0,483,144.46,Cash on Delivery,05/26/2024,20,Delivered,4
+BLK1021,CUST167,Arjun Reddy,Chennai,Personal Care,Soap Bar 100g,1,129.04,0,0,129.04,21.24,Debit Card,10/15/2024,12,Returned,4
+BLK1189,CUST158,Rahul Mehta,Ahmedabad,Beverages,Mineral Water 1L,1,44.23,10,4.42,39.81,3,Cash on Delivery,10/01/2024,31,Delivered,4
+BLK1072,CUST104,Anjali Joshi,Chennai,Beverages,Green Tea 25bags,1,104.6,0,0,104.6,15.2,UPI,07/02/2024,26,Delivered,5
+BLK1107,CUST244,Sanjay Yadav,Ahmedabad,Personal Care,Deo Spray,2,245.95,10,49.19,442.71,48.61,Cash on Delivery,08/28/2024,31,Returned,4
+BLK1271,CUST148,Pooja Agarwal,Mumbai,Baby Care,Baby Powder 200g,1,205.65,0,0,205.65,52.09,UPI,01/21/2024,31,Delivered,5
+BLK1103,CUST143,Rahul Mehta,Bangalore,Personal Care,Toothpaste 150g,5,230.93,20,230.93,923.72,80.91,Wallet,02/11/2024,30,Delivered,5
